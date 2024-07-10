@@ -1,361 +1,7 @@
-<noscript>
-</noscript>
-<!DOCTYPE html>
-<html lang="en">
+<?php include '../layouts/header-link.php' ?>
+<?php include '../layouts/header.php' ?>
+<main>
 
-
-<head>
-    <script>
-        window.prodMode = '1';
-    </script>
- 
-
- 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="alternate" hreflang="pt-br" href="../pt-br/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="fr" href="../fr/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="es" href="../es/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="pt" href="../pt/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="ru" href="../ru/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="tr" href="../tr/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="de" href="../de/products/bitcoin-casino.html" />
-<link rel="alternate" hreflang="en" href="bitcoin-casino.html" />
-<link rel="alternate" hreflang="x-default" href="bitcoin-casino.html" />
-<title>Bitcoin Casino Software | Crypto Betting Platform | Bitcoin Casino Solutions | NuxGame</title>
-<meta name="description" property="description" content="NuxGame offers crypto casino software solutions for the gaming industry. Offer a powerful bitcoin betting platform to your players and expand your business">
-<meta name="image" property="image" content="https://nuxgame.com/glide/@public/products/bitcoin-casino.png">
-<meta name="robots" property="robots" content>
-<meta property="og:url" content="https://nuxgame.com/products/bitcoin-casino">
-<meta property="og:title" content="Bitcoin Casino Software | Crypto Betting Platform | Bitcoin Casino Solutions | NuxGame">
-<meta property="og:description" content="NuxGame offers crypto casino software solutions for the gaming industry. Offer a powerful bitcoin betting platform to your players and expand your business">
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://nuxgame.com/glide/@public/products/bitcoin-casino.png">
-<meta property="og:site_name" content="nuxgame.com">
-<meta property="og:image:width" content="300" />
-<meta property="og:image:height" content="300" />
-<meta property="og:image:type" content="image/png" />
-<meta property="og:locale" content="en_GB" />
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@nuxgame_com">
-<meta name="twitter:title" content="Bitcoin Casino Software | Crypto Betting Platform | Bitcoin Casino Solutions | NuxGame">
-<meta name="twitter:description" content="NuxGame offers crypto casino software solutions for the gaming industry. Offer a powerful bitcoin betting platform to your players and expand your business">
-<meta name="twitter:creator" content="@nuxgame_com">
-<meta name="twitter:image:src" content="https://nuxgame.com/glide/@public/products/bitcoin-casino.png">
-<meta name="twitter:domain" content="nuxgame.com">
-<meta name="twitter:image:alt" content="https://nuxgame.com/glide/@public/products/bitcoin-casino.png" />
-<link rel="canonical" href="bitcoin-casino.html" />
-<meta http-equiv="content-language" content="en">
-<link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-<link rel="manifest" href="../favicon/site.webmanifest">
-<link rel="mask-icon" href="../favicon/safari-pinned-tab.svg" color="#44008f">
-<meta name="apple-mobile-web-app-title" content="NuxGame">
-<meta name="application-name" content="NuxGame">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/favicon/mstile-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<meta name="csrf-token" content="uyucxg7YzgAjnftJQ1vApXwjyDKJ8j1vq611InAk">
-<link rel="preconnect" href="https://fonts.googleapis.com/">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-<link rel="stylesheet" href="../assets/css/main.libae52.css?v=5">
-<link rel="stylesheet" href="../css/main_new3d2e.css?id=756467540cbbdc232142">
-<link rel="stylesheet" href="../css/gamesa84d.css?id=a4d0be9aaffdab535467">
-<link rel="stylesheet" href="../css/products645a.css?id=834f63c888bd8ca4d337">
-<link rel="stylesheet" href="../css/media4a19.css?id=7aa9d0a4ef4356c47088">
-<meta name="dmca-site-verification" content="a1VuR1JBQ25JcGNjLzExV2pYUENjQT090" />
-<script type="text/javascript" src="../../be5b7d95-1bfc-4f92-b5e1-ec5c7ae3eba6.snippet.antillephone.com/apg-seal.js"></script>
-</head>
-
-<body class="zohoClass ">
- 
-<div class="main_wrapper newSinglePage newSingleProductPage">
-<div class="headerPosition">
-<header class="fixedWraper headerBgAcc headerBgBlured ">
-<div class="container">
-<div class="navigationWrapper">
-<div class="logo">
-<a href="../index.html"><img src="../img/logo_Nuxgame_2023.webp" alt="NuxGame" title="NuxGame" /></a>
-
-</div>
-<nav class="socialNav">
-<h4>FOLLOW US</h4>
-<ul class="social">
-<li>
-<a href="https://www.instagram.com/nuxgame/" aria-label="instagram" target="_blank">
-<div class="socialIconWrapper">
-<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.75 0H3.25C1.46266 0 0 1.46202 0 3.25V9.75C0 11.5373 1.46266 13 3.25 13H9.75C11.5373 13 13 11.5373 13 9.75V3.25C13 1.46202 11.5373 0 9.75 0ZM6.5 9.20823C5.00402 9.20823 3.79161 7.99532 3.79161 6.5C3.79161 5.00402 5.00402 3.79161 6.5 3.79161C7.99532 3.79161 9.20839 5.00402 9.20839 6.5C9.20839 7.99532 7.99532 9.20823 6.5 9.20823ZM10.0209 3.79161C9.57173 3.79161 9.20839 3.42777 9.20839 2.97911C9.20839 2.53046 9.57173 2.16661 10.0209 2.16661C10.47 2.16661 10.8334 2.53046 10.8334 2.97911C10.8334 3.42777 10.47 3.79161 10.0209 3.79161Z" fill="#060048" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.facebook.com/nuxgame/" aria-label="facebook" target="_blank">
-<div class="socialIconWrapper">
-<svg width="7" height="13" viewBox="0 0 7 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.97785 12.858V6.99317H5.78596L6.05582 4.70717H3.97785V3.24977C3.97785 2.58571 4.14516 2.13909 5.01953 2.13909H6.13139V0.0881492C5.93708 0.0587661 5.27861 0 4.51218 0C2.90917 0 1.81351 1.06367 1.81351 3.02058V4.70717H0V6.99317H1.81351V12.858H3.97785Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.youtube.com/@Nuxgame" aria-label="youtube" target="_blank">
-<div class="socialIconWrapper">
-<svg width="17" height="11" viewBox="0 0 17 11" class="youtubeIcon" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M16.6444 1.71753C16.4489 1.04158 15.873 0.508753 15.1413 0.327892C13.816 1.18977e-07 8.5 0 8.5 0C8.5 0 3.18396 1.18977e-07 1.85796 0.327892C1.12696 0.508753 0.551083 1.04093 0.355583 1.71753C0 2.94322 0 5.5 0 5.5C0 5.5 0 8.05678 0.355583 9.28247C0.551083 9.95842 1.12696 10.4912 1.85867 10.6721C3.18396 11 8.5 11 8.5 11C8.5 11 13.816 11 15.142 10.6721C15.873 10.4912 16.4489 9.95907 16.6451 9.28247C17 8.05678 17 5.5 17 5.5C17 5.5 17 2.94322 16.6444 1.71753ZM6.76175 7.82192V3.17808L11.2044 5.5L6.76175 7.82192Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/company/nuxgame/" aria-label="linkedin" target="_blank">
-<div class="socialIconWrapper">
-<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2.77049 13H0.213115V3.94708H2.77049V13ZM1.4918 2.90352C0.668328 2.90352 0 2.25336 0 1.45176C0 0.650164 0.668328 0 1.4918 0C2.31528 0 2.98361 0.650164 2.98361 1.45176C2.98361 2.25336 2.31613 2.90352 1.4918 2.90352ZM13 13H10.4426V8.38795C10.4426 5.6161 7.03279 5.82597 7.03279 8.38795V13H4.47541V3.94708H7.03279V5.39966C8.22282 3.2714 13 3.11421 13 7.43739V13Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-</ul> <div class="langSwitcherWrapper">
-<a href="javascript: void(0)" data-localize="no" class="currentLang dropLi">
-<span>
-EN
-</span>
-</a>
-<ul class="langSwitcher">
-<li>
-<a href="../pt-br/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/pt-br.svg" />
-Português do Brasil
-</a>
-</li>
-<li>
-<a href="../fr/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/fr.svg" />
-Français
-</a>
-</li>
-<li>
-<a href="../es/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/es.svg" />
-Español
-</a>
-</li>
-<li>
-<a href="../pt/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/pt.svg" />
-Português
-</a>
-</li>
-<li>
-<a href="../ru/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/ru.svg" />
-Русский
-</a>
-</li>
-<li>
-<a href="../tr/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/tr.svg" />
-Türkçe
-</a>
-</li>
-<li>
-<a href="../de/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/de.svg" />
-Deutsch
-</a>
-</li>
-</ul>
-</div>
-</nav>
-<div class="headerMobWrapper">
-<div class="mobLang">
-<div class="langSwitcherWrapper">
-<a href="javascript: void(0)" data-localize="no" class="currentLang dropLi">
-<span>
-EN
-</span>
-</a>
-<ul class="langSwitcher">
-<li>
-<a href="../pt-br/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/pt-br.svg" />
-Português do Brasil
-</a>
-</li>
-<li>
-<a href="../fr/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/fr.svg" />
-Français
-</a>
-</li>
-<li>
-<a href="../es/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/es.svg" />
-Español
-</a>
-</li>
-<li>
-<a href="../pt/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/pt.svg" />
-Português
-</a>
-</li>
-<li>
-<a href="../ru/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/ru.svg" />
-Русский
-</a>
-</li>
-<li>
-<a href="../tr/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/tr.svg" />
-Türkçe
-</a>
-</li>
-<li>
-<a href="../de/products/bitcoin-casino.html" data-localize="no">
-<img src="../img/flag/de.svg" />
-Deutsch
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="mobileNavBtnWrapper">
-<button href="#" class="mobileNavBtn menu-trigger" id="menu01">
-</button>
-</div>
-</div>
-</div>
-<nav class="mainNav">
-<ul class="nav">
-<li class="active dropLi">
-<div class="liText">Products</div>
-<span class="icon">
-</span>
-<span class="dropItem">
-</span>
-<ul class="navDropDown">
-<li class>
-<a href="online-casino.html">Online Casino</a>
-</li>
-<li class>
-<a href="sportsbook.html">Sportsbook</a>
-</li>
-<li class="active">
-<a href="bitcoin-casino.html">Crypto Casino</a>
-</li>
-<li class>
-<a href="affiliate-system.html">Affiliate System</a>
-</li>
-<li class>
-<a href="agent-system.html">Agent System</a>
-</li>
-<li class>
-<a href="casino-game-aggregation.html">Casino Game Aggregation</a>
-</li>
-</ul>
-</li>
-<li class=" dropLi">
-<div class="liText">Solutions</div>
-<span class="icon">
-</span>
-<span class="dropItem">
-</span>
-<ul class="navDropDown">
-<li class>
-<a href="../solutions/betting-casino-api.html">Website API</a>
-</li>
-<li class>
-<a href="../solutions/turnkey.html">Turnkey</a>
-</li>
-<li class>
-<a href="../solutions/legal-services.html">Legal Services</a>
-</li>
-<li class>
-<a href="../solutions/aml-and-kyc.html">AML &amp; KYC</a>
-</li>
-<li class>
-<a href="../games.html">Game Providers</a>
-</li>
-</ul>
-</li>
-<li class>
-<a href="../partners.html">Partners</a>
-</li>
-<li class><a href="../demo.html">Demo</a></li>
-<li class=" dropLi">
-<div class="liText">Events</div>
-<span class="icon">
-</span>
-<span class="dropItem">
-</span>
-<ul class="navDropDown">
-<li class>
-<a href="../event/ice-london-2024.html">ICE London 2024</a>
-</li>
-<li class>
-<a href="../event/sbc-summit.html">SBC Summit 2024</a>
-</li>
-<li class>
-<a href="../event/sigma-world.html">Sigma Europe 2024</a>
-</li>
-</ul>
-</li>
-<li class="dropLi">
-<noindex><a rel="nofollow" href="https://nuxgame.zohorecruit.eu/jobs/Careers" target="_blank">Careers</a></noindex>
-</li>
-<li class><a href="../blog.html" class>Blog</a>
-</li>
-<li class><a href="../contact-us.html">Contact us</a></li>
-</ul>
-<div class="mobNavSocial">
-<h4>FOLLOW US</h4>
-<ul class="social">
-<li>
-<a href="https://www.instagram.com/nuxgame/" aria-label="instagram" target="_blank">
-<div class="socialIconWrapper">
-<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.75 0H3.25C1.46266 0 0 1.46202 0 3.25V9.75C0 11.5373 1.46266 13 3.25 13H9.75C11.5373 13 13 11.5373 13 9.75V3.25C13 1.46202 11.5373 0 9.75 0ZM6.5 9.20823C5.00402 9.20823 3.79161 7.99532 3.79161 6.5C3.79161 5.00402 5.00402 3.79161 6.5 3.79161C7.99532 3.79161 9.20839 5.00402 9.20839 6.5C9.20839 7.99532 7.99532 9.20823 6.5 9.20823ZM10.0209 3.79161C9.57173 3.79161 9.20839 3.42777 9.20839 2.97911C9.20839 2.53046 9.57173 2.16661 10.0209 2.16661C10.47 2.16661 10.8334 2.53046 10.8334 2.97911C10.8334 3.42777 10.47 3.79161 10.0209 3.79161Z" fill="#060048" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.facebook.com/nuxgame/" aria-label="facebook" target="_blank">
-<div class="socialIconWrapper">
-<svg width="7" height="13" viewBox="0 0 7 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.97785 12.858V6.99317H5.78596L6.05582 4.70717H3.97785V3.24977C3.97785 2.58571 4.14516 2.13909 5.01953 2.13909H6.13139V0.0881492C5.93708 0.0587661 5.27861 0 4.51218 0C2.90917 0 1.81351 1.06367 1.81351 3.02058V4.70717H0V6.99317H1.81351V12.858H3.97785Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.youtube.com/@Nuxgame" aria-label="youtube" target="_blank">
-<div class="socialIconWrapper">
-<svg width="17" height="11" viewBox="0 0 17 11" class="youtubeIcon" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M16.6444 1.71753C16.4489 1.04158 15.873 0.508753 15.1413 0.327892C13.816 1.18977e-07 8.5 0 8.5 0C8.5 0 3.18396 1.18977e-07 1.85796 0.327892C1.12696 0.508753 0.551083 1.04093 0.355583 1.71753C0 2.94322 0 5.5 0 5.5C0 5.5 0 8.05678 0.355583 9.28247C0.551083 9.95842 1.12696 10.4912 1.85867 10.6721C3.18396 11 8.5 11 8.5 11C8.5 11 13.816 11 15.142 10.6721C15.873 10.4912 16.4489 9.95907 16.6451 9.28247C17 8.05678 17 5.5 17 5.5C17 5.5 17 2.94322 16.6444 1.71753ZM6.76175 7.82192V3.17808L11.2044 5.5L6.76175 7.82192Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/company/nuxgame/" aria-label="linkedin" target="_blank">
-<div class="socialIconWrapper">
-<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2.77049 13H0.213115V3.94708H2.77049V13ZM1.4918 2.90352C0.668328 2.90352 0 2.25336 0 1.45176C0 0.650164 0.668328 0 1.4918 0C2.31528 0 2.98361 0.650164 2.98361 1.45176C2.98361 2.25336 2.31613 2.90352 1.4918 2.90352ZM13 13H10.4426V8.38795C10.4426 5.6161 7.03279 5.82597 7.03279 8.38795V13H4.47541V3.94708H7.03279V5.39966C8.22282 3.2714 13 3.11421 13 7.43739V13Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-</ul> </div>
-</nav>
-</div>
-</header>
-</div>
 <section class="topHeader paddingTopSection">
 <div class="container">
 <div class="breadCrumbsWrapper">
@@ -416,7 +62,7 @@ NuxGame offers a state-of-the-art crypto casino software solution for building a
 <div class="innerRowFeatures">
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/crypto_payments.webp" alt="Crypto Payments" />
+<img src="<?php echo f_path ?>img/products/crypto-img1.webp" alt="Crypto Payments" />
 </div>
 <div class="title darkPurple">
 Crypto Payments
@@ -427,7 +73,7 @@ Provides payment processing across top cryptocurrencies, such as BTC, USDT, DOGE
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/live_in_48_hours.webp" alt="Rapid Deployment" />
+<img src="<?php echo f_path ?>img/products/crypto-img2.webp" alt="Rapid Deployment" />
 </div>
 <div class="title darkPurple">
 Rapid Deployment
@@ -438,7 +84,7 @@ Experience seamless integration with our software, ready for use on your crypto 
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/web3_app_integration.webp" alt="Web3 app integration" />
+<img src="<?php echo f_path ?>img/products/crypto-img3.webp" alt="Web3 app integration" />
 </div>
 <div class="title darkPurple">
 Web3 app integration
@@ -449,7 +95,7 @@ Phantom, Petra and Metamask and others all available depending on requirements
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/convenient_back_office.webp" alt="Convenient Back Office" />
+<img src="<?php echo f_path ?>img/products/crypto-img4.webp" alt="Convenient Back Office" />
 </div>
 <div class="title darkPurple">
 Convenient Back Office
@@ -460,7 +106,7 @@ Gain a clear understanding of data and analytics through an enhanced dashboard
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/advanced_risk_management.webp" alt="Advanced Risk Management" />
+<img src="<?php echo f_path ?>img/products/crypto-img5.webp" alt="Advanced Risk Management" />
 </div>
 <div class="title darkPurple">
 Advanced Risk Management
@@ -471,7 +117,7 @@ Identify and respond to potential threats to future proof your business
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/free_content_updates.webp" alt="Free content updates" />
+<img src="<?php echo f_path ?>img/products/crypto-img6.webp" alt="Free content updates" />
 </div>
 <div class="title darkPurple">
 Free content updates
@@ -482,7 +128,7 @@ Upgrade existing content from our expanding portfolio provided by our world-clas
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/24_7_technical_support.webp" alt="24/7 Technical Support" />
+<img src="<?php echo f_path ?>img/products/crypto-img7.webp" alt="24/7 Technical Support" />
 </div>
 <div class="title darkPurple">
 24/7 Technical Support
@@ -492,7 +138,7 @@ Our dedicated support team is on hand to provide your business with an around th
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/marketing_module.webp" alt="Marketing module" />
+<img src="<?php echo f_path ?>img/products/crypto-img8.webp" alt="Marketing module" />
 </div>
 <div class="title darkPurple">
 Marketing module
@@ -503,7 +149,7 @@ Define and market your crypto platform so it aligns with your business plan
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/anti_fraud_solutions.webp" alt="Anti-fraud solutions" />
+<img src="<?php echo f_path ?>img/products/crypto-img9.webp" alt="Anti-fraud solutions" />
 </div>
 <div class="title darkPurple">
 Anti-fraud solutions
@@ -514,7 +160,7 @@ Ensure individual crypto players can verify their identity, alongside a host of 
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/reporting_and_analytics.webp" alt="Reporting and Analytics" />
+<img src="<?php echo f_path ?>img/products/crypto-img10.webp" alt="Reporting and Analytics" />
 </div>
 <div class="title darkPurple">
 Reporting and Analytics
@@ -541,8 +187,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/pragmatic-play-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/pragmatic-play-provider09f2.png?fmt=webp" alt="pragmatic play games" title="Pragmatic Play" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img1.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img1.png" alt="pragmatic play games" title="Pragmatic Play" />
 </picture>
 </div>
 </div>
@@ -551,8 +197,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/evolution-gaming-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/evolution-gaming-provider09f2.png?fmt=webp" alt="evolution casino games" title="Evolution Gaming" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img2.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img2.png" alt="evolution casino games" title="Evolution Gaming" />
 </picture>
 </div>
 </div>
@@ -561,8 +207,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/NetEnt.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/NetEnt09f2.png?fmt=webp" alt="netent casino games" title="NetEnt" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img3.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img3.png" alt="netent casino games" title="NetEnt" />
 </picture>
 </div>
 </div>
@@ -571,8 +217,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/Nolimit-City.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/Nolimit-City09f2.png?fmt=webp" alt="nolimit city slot" title="Nolimit City" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img4.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img4.png" alt="nolimit city slot" title="Nolimit City" />
 </picture>
 </div>
 </div>
@@ -581,8 +227,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/playson-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/playson-provider09f2.png?fmt=webp" alt="Playson" title="Playson" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img5.webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img5.webp" alt="Playson" title="Playson" />
 </picture>
 </div>
 </div>
@@ -597,15 +243,15 @@ load more
 <section class="paymentsMethods">
 <div class="container">
 <div class="paymentsMethodsWrapper">
-  <h2 class="darkPurple">
+<h2 class="darkPurple">
 <span>Multiple </span> <span> cryptocurrencies support</span> </h2>
 <div id="paymentsList" class="paymentsListWrapper">
 <div class="paymentsItem">
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/AAVE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/AAVEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="AAVE" title="AAVE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/AAVE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper1.png" alt="AAVE" title="AAVE" />
 </picture>
 </div>
 <h3>AAVE</h3>
@@ -615,8 +261,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/APE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/APEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="APE" title="APE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/APE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper2.png" alt="APE" title="APE" />
 </picture>
 </div>
 <h3>APE</h3>
@@ -626,8 +272,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ATOM.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ATOMaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ATOM" title="ATOM" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ATOM.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper3.png" alt="ATOM" title="ATOM" />
 </picture>
 </div>
 <h3>ATOM</h3>
@@ -637,8 +283,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BCH.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BCHaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BCH" title="BCH" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BCH.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper4.png" alt="BCH" title="BCH" />
 </picture>
 </div>
 <h3>BCH</h3>
@@ -648,8 +294,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BNB.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BNBaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BNB" title="BNB" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BNB.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper5.webp" alt="BNB" title="BNB" />
 </picture>
 </div>
 <h3>BNB</h3>
@@ -659,8 +305,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BTC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BTCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BTC" title="BTC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BTC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper6.png" alt="BTC" title="BTC" />
 </picture>
 </div>
 <h3>BTC</h3>
@@ -670,8 +316,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BUSD.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BUSDaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BUSD" title="BUSD" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BUSD.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper7.png" alt="BUSD" title="BUSD" />
 </picture>
 </div>
 <h3>BUSD</h3>
@@ -681,8 +327,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DAI.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/DAIaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="DAI" title="DAI" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DAI.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper8.png" alt="DAI" title="DAI" />
 </picture>
 </div>
 <h3>DAI</h3>
@@ -692,8 +338,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DOGE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/DOGEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="DOGE" title="DOGE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DOGE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper9.png" alt="DOGE" title="DOGE" />
 </picture>
 </div>
 <h3>DOGE</h3>
@@ -703,8 +349,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ETCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ETC" title="ETC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper10.png" alt="ETC" title="ETC" />
 </picture>
 </div>
 <h3>ETC</h3>
@@ -714,8 +360,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETH.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ETHaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ETH" title="ETH" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETH.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper11.png" alt="ETH" title="ETH" />
 </picture>
 </div>
 <h3>ETH</h3>
@@ -725,8 +371,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/USDTaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="USDT" title="USDT" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper12.png" alt="USDT" title="USDT" />
 </picture>
 </div>
 <h3>USDT</h3>
@@ -736,8 +382,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/EOS.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/EOSaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="EOS" title="EOS" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/EOS.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper13.png" alt="EOS" title="EOS" />
 </picture>
 </div>
 <h3>EOS</h3>
@@ -747,8 +393,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/FTM.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/FTMaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="FTM" title="FTM" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/FTM.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper14.png" alt="FTM" title="FTM" />
 </picture>
 </div>
 <h3>FTM</h3>
@@ -758,8 +404,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/KAVA.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/KAVAaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="KAVA" title="KAVA" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/KAVA.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper15.png" alt="KAVA" title="KAVA" />
 </picture>
 </div>
 <h3>KAVA</h3>
@@ -769,8 +415,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/LINK.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/LINKaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="LINK" title="LINK" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/LINK.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper16.png" alt="LINK" title="LINK" />
 </picture>
 </div>
 <h3>LINK</h3>
@@ -780,8 +426,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/Litecoin.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/Litecoinaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="Litecoin" title="Litecoin" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/Litecoin.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper17.png" alt="Litecoin" title="Litecoin" />
 </picture>
 </div>
 <h3>Litecoin</h3>
@@ -791,8 +437,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/MATIC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/MATICaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="MATIC" title="MATIC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/MATIC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper18.png" alt="MATIC" title="MATIC" />
 </picture>
 </div>
 <h3>MATIC</h3>
@@ -802,8 +448,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/mBTC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/mBTCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="mBTC" title="mBTC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/mBTC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper19.png" alt="mBTC" title="mBTC" />
 </picture>
 </div>
 <h3>mBTC</h3>
@@ -813,8 +459,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ONE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ONEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ONE" title="ONE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ONE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper20.png" alt="ONE" title="ONE" />
 </picture>
 </div>
 <h3>ONE</h3>
@@ -824,8 +470,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/PAR.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/PARaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="PAR" title="PAR" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/PAR.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper21.png" alt="PAR" title="PAR" />
 </picture>
 </div>
 <h3>PAR</h3>
@@ -835,8 +481,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SHIB.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/SHIBaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="SHIB" title="SHIB" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SHIB.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper22.png" alt="SHIB" title="SHIB" />
 </picture>
 </div>
 <h3>SHIB</h3>
@@ -846,8 +492,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SOL.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/SOLaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="SOL" title="SOL" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SOL.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper23.png" alt="SOL" title="SOL" />
 </picture>
 </div>
 <h3>SOL</h3>
@@ -857,8 +503,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/USDCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="USDC" title="USDC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper24.png" alt="USDC" title="USDC" />
 </picture>
 </div>
 <h3>USDC</h3>
@@ -868,8 +514,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/USDTaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="USDT #2" title="USDT #2" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper25.png" alt="USDT #2" title="USDT #2" />
 </picture>
 </div>
 <h3>USDT</h3>
@@ -879,8 +525,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/XRP.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/XRPaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="XRP" title="XRP" />
+<!-- <source srcset="/ glide/@public/products/New_Design/ICONS/CryptoIcons/XRP.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper27.png" alt="XRP" title="XRP" />
 </picture>
 </div>
 <h3>XRP</h3>
@@ -929,7 +575,7 @@ Offer a cross-border solution that can be used worldwide
 </ul>
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/New%20opportunities344d.webp?w=540&amp;h=680&amp;fit=crop" alt="NEW OPPORTUNITIES #2" />
+<img src="<?php echo f_path ?>img/products/opportunities.webp" alt="NEW OPPORTUNITIES #2" />
 </div>
 </div>
 </div>
@@ -961,7 +607,7 @@ Verified Web3 wallets
 </ul>
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/Financial-security%20(1)344d.webp?w=540&amp;h=680&amp;fit=crop" alt="FINANCIAL SECURITY #2" />
+<img src="<?php echo f_path ?>img/products/security.webp" alt="FINANCIAL SECURITY #2" />
 </div>
 </div>
 </div>
@@ -1049,7 +695,7 @@ Crypto Casino Software Solutions
 <div class="item">
 <a href="../solutions/betting-casino-api.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Website_API.webp" alt="Website API" />
+<img src="<?php echo f_path ?>img/products/api.webp" alt="Website API" />
 <h3>Website API</h3>
 </div>
 <div class="itemText">
@@ -1062,7 +708,7 @@ Integrate sports and casino content into your website using our scalable and pra
 <div class="item">
 <a href="../solutions/turnkey.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp" alt="Turnkey" />
+<img src="<?php echo f_path ?>img/products/key.webp" alt="Turnkey" />
 <h3>Turnkey</h3>
 </div>
 <div class="itemText">
@@ -1075,7 +721,7 @@ Get a fully-fledged platform within 48 hours - embrace the turnkey solution to s
 <div class="item">
 <a href="../solutions/legal-services.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Legal_Services_(2).webp" alt="Legal Services" />
+<img src="<?php echo f_path ?>img/products/legal.webp" alt="Legal Services" />
 <h3>Legal Services</h3>
 </div>
 <div class="itemText">
@@ -1581,185 +1227,9 @@ Send
 </div>
 <a href="../contact-us.html"><img src="../img/aggregation-offer.webp" alt="Aggregation Offer" id="banner-aggregation-offer" /></a>
 </div>
-</div>
-<div class="overlay"></div>
-<footer>
-<div class="container">
-<div class="footerGrid">
-<div class="item">
-<div class="col">
-<div class="footerLogo">
-<img src="../img/logo_Nuxgame_2023.webp" alt="Nux #2" title="Nux #2" />
-</div>
-<div class="socialNav">
-<h4>FOLLOW US</h4>
-<ul class="social">
-<li>
-<a href="https://www.instagram.com/nuxgame/" aria-label="instagram" target="_blank">
-<div class="socialIconWrapper">
-<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.75 0H3.25C1.46266 0 0 1.46202 0 3.25V9.75C0 11.5373 1.46266 13 3.25 13H9.75C11.5373 13 13 11.5373 13 9.75V3.25C13 1.46202 11.5373 0 9.75 0ZM6.5 9.20823C5.00402 9.20823 3.79161 7.99532 3.79161 6.5C3.79161 5.00402 5.00402 3.79161 6.5 3.79161C7.99532 3.79161 9.20839 5.00402 9.20839 6.5C9.20839 7.99532 7.99532 9.20823 6.5 9.20823ZM10.0209 3.79161C9.57173 3.79161 9.20839 3.42777 9.20839 2.97911C9.20839 2.53046 9.57173 2.16661 10.0209 2.16661C10.47 2.16661 10.8334 2.53046 10.8334 2.97911C10.8334 3.42777 10.47 3.79161 10.0209 3.79161Z" fill="#060048" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.facebook.com/nuxgame/" aria-label="facebook" target="_blank">
-<div class="socialIconWrapper">
-<svg width="7" height="13" viewBox="0 0 7 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.97785 12.858V6.99317H5.78596L6.05582 4.70717H3.97785V3.24977C3.97785 2.58571 4.14516 2.13909 5.01953 2.13909H6.13139V0.0881492C5.93708 0.0587661 5.27861 0 4.51218 0C2.90917 0 1.81351 1.06367 1.81351 3.02058V4.70717H0V6.99317H1.81351V12.858H3.97785Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.youtube.com/@Nuxgame" aria-label="youtube" target="_blank">
-<div class="socialIconWrapper">
-<svg width="17" height="11" viewBox="0 0 17 11" class="youtubeIcon" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M16.6444 1.71753C16.4489 1.04158 15.873 0.508753 15.1413 0.327892C13.816 1.18977e-07 8.5 0 8.5 0C8.5 0 3.18396 1.18977e-07 1.85796 0.327892C1.12696 0.508753 0.551083 1.04093 0.355583 1.71753C0 2.94322 0 5.5 0 5.5C0 5.5 0 8.05678 0.355583 9.28247C0.551083 9.95842 1.12696 10.4912 1.85867 10.6721C3.18396 11 8.5 11 8.5 11C8.5 11 13.816 11 15.142 10.6721C15.873 10.4912 16.4489 9.95907 16.6451 9.28247C17 8.05678 17 5.5 17 5.5C17 5.5 17 2.94322 16.6444 1.71753ZM6.76175 7.82192V3.17808L11.2044 5.5L6.76175 7.82192Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/company/nuxgame/" aria-label="linkedin" target="_blank">
-<div class="socialIconWrapper">
-<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2.77049 13H0.213115V3.94708H2.77049V13ZM1.4918 2.90352C0.668328 2.90352 0 2.25336 0 1.45176C0 0.650164 0.668328 0 1.4918 0C2.31528 0 2.98361 0.650164 2.98361 1.45176C2.98361 2.25336 2.31613 2.90352 1.4918 2.90352ZM13 13H10.4426V8.38795C10.4426 5.6161 7.03279 5.82597 7.03279 8.38795V13H4.47541V3.94708H7.03279V5.39966C8.22282 3.2714 13 3.11421 13 7.43739V13Z" fill="white" />
-</svg>
-</div>
-</a>
-</li>
-</ul> </div>
-<div class="colInner">
-<h4>Contact Us</h4>
-<ul class="contacts">
-<li><a href="../cdn-cgi/l/email-protection.html#6e070008012e001b16090f030b400d0103"><span class="__cf_email__" data-cfemail="bfd6d1d9d0ffd1cac7d8ded2da91dcd0d2">[email&#160;protected]</span></a></li>
-</ul>
-</div>
-</div>
-<div class="col">
-<h4>MENU</h4>
-<ul class="footerNav">
-<li><a href="../partners.html">Partners</a></li>
-<li><a href="../games.html">Providers</a></li>
-<li><a href="../demo.html">Demo</a></li>
-<li><a href="../blog.html" class>Blog</a>
-</li>
-<li><a href="../contact-us.html">Contact Us</a></li>
-</ul>
-</div>
-<div class="col">
-<h4>INFO</h4>
-<ul class="footerNav">
-<li><a href="../terms-and-conditions.html">Terms and Conditions</a>
-</li>
-<li><a href="../privacy-policy.html">Privacy Policy</a>
-</li>
-<li><a href="../cookie-policy.html">Cookie Policy</a>
-</li>
-<li><a href="../responsible-gambling.html">Responsible Gambling</a>
-</li>
-<li><noindex><a rel="nofollow" href="https://nuxgame.zohorecruit.eu/jobs/Careers" target="_blank">Careers</a></noindex></li>
-</ul>
-</div>
-<div class="col">
-<h4>GUIDES</h4>
-<ul class="footerNav">
-<li><a href="../blog/guides/how-to-start-an-online-casino.html">How to Start an Online Casino</a></li>
-<li><a href="../blog/guides/how-to-start-an-online-betting-business.html">How to Start an Online Betting Business</a></li>
-<li><a href="../blog/legal-hub/top-gaming-licenses-overview.html"> Top Gaming Licenses: Overview</a></li>
-<li><a href="../blog/legal-hub/curacao-gaming-license-complete-review.html">Curacao Gaming License: Complete Review</a></li>
-<li><a href="../blog/platform-updates/understanding-online-casino-business-models-how-online-casinos-work-and-business-opportunities.html">Understanding Online Casino Business Models: How Online Casinos Work and Business Opportunities</a></li>
-</ul>
-</div>
-</div>
-<div class="item">
-<div class="footerLogos">
-<div class="logo">
-<img src="../img/footer/sigma-logo.svg" />
-</div>
-<div class="logo">
-<img src="../img/footer/GambleAware-logo.webp" />
-</div>
-<div class="logo">
-<div id="apg-be5b7d95-1bfc-4f92-b5e1-ec5c7ae3eba6" data-apg-seal-id="be5b7d95-1bfc-4f92-b5e1-ec5c7ae3eba6" data-apg-image-size="128" data-apg-image-type="basic-small"></div>
-<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="../../be5b7d95-1bfc-4f92-b5e1-ec5c7ae3eba6.snippet.antillephone.com/apg-seal.js"></script>
-</div>
-<div class="logo">
-<img src="../img/footer/PCI.webp" />
-</div>
-<div class="logo">
-<div class="dmca">
-<a target="_blank" rel="nofollow" href="http://www.dmca.com/Protection/Status.aspx?ID=7218619b-9b4f-4997-82c8-a9a7803a98d8" title="DMCA.com Protection Status" class="dmca-badge">
-<img loading="lazy" src="../img/_dmca_premi_badge_4.webp" alt="DMCA.com Protection Status" class="image_dmca" />
-<img loading="lazy" rel="nofollow" src="../../images.dmca.com/Badges/_dmca_premi_badge_42461.png?ID=7218619b-9b4f-4997-82c8-a9a7803a98d8" alt="DMCA.com Protection Status" /></a>
-<script src="../../images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
-</div>
-</div>
-<div class="logo">
-<img src="../img/footer/eu_gdpr_compliant-logo.webp" />
-</div>
-<div class="logo">
-<img loading="lazy" src="../img/footer/respon.webp" />
-</div>
-<div class="logo">
-<img loading="lazy" src="../img/footer/gaming_labs.webp" alt="gaming labs" />
-</div>
-</div>
-</div>
-<div class="item">
-<div class="col flex">
-<div class="divWrap">
-<p class="copyWrites">The website is owned and operated by NuxGame brand</p>
-<p class="copyWrites">© 2018-2024 NuxGame. All rights reserved.</p>
-<div class="copyWrites">
-<ul class="footerIcons">
-<li>
-<img src="../img/icons/18_years.svg" alt="18 years" title="18 years" />
-</li>
-<li>
-<img src="../img/icons/ssl.svg" alt="SSL" title="SSL" />
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</footer>
-<div class="helperImg">
-</div>
-<div class="cookiesPolicyWrapper">
-<div class="acceptCookie">
-<div class="cookietxtWrapper">
-<p class="txt">The Website uses Cookies to offer you the best browsing experience and
-all
-functions of
-the exceptional Website content as well as improve the overall quality of the Website,
-protect
-and
-increase its defense against fraud and abuse. Find out more in our <a href="../cookie-policy.html" target="_blank">Cookies Policy</a></p>
-</div>
-<div class="btn_wrapper">
-<button class="btn" id="setFullCookiesBtn">
-<p class="txt">Accept All Cookies</p>
-</button>
-<button class="btn" id="setPartCookiesBtn">
-<p class="txt">Accept Only Essential Cookies</p>
-</button>
-</div>
-</div>
-</div>
-</div>
-<div class="overlay"></div>
-<button class="btnTotop">
-<div class="animArrow">
-</div>
-<div class="animText">
-UP
-</div>
-</button>
+</div> 
+
+
 <script src="../assets/js/main.libae52.js?v=5"></script>
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
@@ -2799,4 +2269,36 @@ console.error(e);
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'89e5ab0e7803a6bc',t:'MTcyMDE2NDgyMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='../cdn-cgi/challenge-platform/h/g/scripts/jsd/d2a97f6b6ec9/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 
 
-</html>
+
+
+
+
+
+
+
+
+
+
+
+   <?php include '../layouts/footer.php' ?>
+   <?php include '../layouts/footer-link.php' ?>
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+   $(function() {
+      $('.header').addClass('Header_inner');
+   });
+</script>
