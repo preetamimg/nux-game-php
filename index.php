@@ -494,14 +494,16 @@
         <div class="container">
             <div class="innerRow">
                 <div class="innerItem">
-                    <h2 class="darkPurple">Solutions</h2>
+                    <h2 class="darkPurple">Solutions</h2> 
                 </div>
                 <div class="solutionsMain">
                     <div class="solutionsItem">
                         <div class="solutionsImage js-animated fadeInLeft">
                             <picture>
-                                <source srcset="/glide/@public/solutions/New_Design/API.webp" type="image/webp">
-                                <img src="glide/%40public/solutions/New_Design/API.webp" alt="Website API" title="Website API" />
+                                <!-- <source srcset="/glide/@public/solutions/New_Design/API.webp" type="image/webp"> -->
+                                <!-- <img src="glide/%40public/solutions/New_Design/API.webp" alt="Website API" title="Website API" /> -->
+                                <img src="<?php echo f_path ?>img/logo_Nuxgame_2023.webp" alt="NuxGame" title="NuxGame" />
+                                
                             </picture>
                         </div>
                         <div class="solutionsText js-animated fadeInRight">
