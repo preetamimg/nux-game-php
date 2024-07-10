@@ -62,7 +62,7 @@ NuxGame offers a state-of-the-art crypto casino software solution for building a
 <div class="innerRowFeatures">
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/crypto_payments.webp" alt="Crypto Payments" />
+<img src="<?php echo f_path ?>img/products/crypto-img1.webp" alt="Crypto Payments" />
 </div>
 <div class="title darkPurple">
 Crypto Payments
@@ -73,7 +73,7 @@ Provides payment processing across top cryptocurrencies, such as BTC, USDT, DOGE
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/live_in_48_hours.webp" alt="Rapid Deployment" />
+<img src="<?php echo f_path ?>img/products/crypto-img2.webp" alt="Rapid Deployment" />
 </div>
 <div class="title darkPurple">
 Rapid Deployment
@@ -84,7 +84,7 @@ Experience seamless integration with our software, ready for use on your crypto 
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/web3_app_integration.webp" alt="Web3 app integration" />
+<img src="<?php echo f_path ?>img/products/crypto-img3.webp" alt="Web3 app integration" />
 </div>
 <div class="title darkPurple">
 Web3 app integration
@@ -95,7 +95,7 @@ Phantom, Petra and Metamask and others all available depending on requirements
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/convenient_back_office.webp" alt="Convenient Back Office" />
+<img src="<?php echo f_path ?>img/products/crypto-img4.webp" alt="Convenient Back Office" />
 </div>
 <div class="title darkPurple">
 Convenient Back Office
@@ -106,7 +106,7 @@ Gain a clear understanding of data and analytics through an enhanced dashboard
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/advanced_risk_management.webp" alt="Advanced Risk Management" />
+<img src="<?php echo f_path ?>img/products/crypto-img5.webp" alt="Advanced Risk Management" />
 </div>
 <div class="title darkPurple">
 Advanced Risk Management
@@ -117,7 +117,7 @@ Identify and respond to potential threats to future proof your business
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/free_content_updates.webp" alt="Free content updates" />
+<img src="<?php echo f_path ?>img/products/crypto-img6.webp" alt="Free content updates" />
 </div>
 <div class="title darkPurple">
 Free content updates
@@ -128,7 +128,7 @@ Upgrade existing content from our expanding portfolio provided by our world-clas
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/24_7_technical_support.webp" alt="24/7 Technical Support" />
+<img src="<?php echo f_path ?>img/products/crypto-img7.webp" alt="24/7 Technical Support" />
 </div>
 <div class="title darkPurple">
 24/7 Technical Support
@@ -138,7 +138,7 @@ Our dedicated support team is on hand to provide your business with an around th
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/marketing_module.webp" alt="Marketing module" />
+<img src="<?php echo f_path ?>img/products/crypto-img8.webp" alt="Marketing module" />
 </div>
 <div class="title darkPurple">
 Marketing module
@@ -149,7 +149,7 @@ Define and market your crypto platform so it aligns with your business plan
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/anti_fraud_solutions.webp" alt="Anti-fraud solutions" />
+<img src="<?php echo f_path ?>img/products/crypto-img9.webp" alt="Anti-fraud solutions" />
 </div>
 <div class="title darkPurple">
 Anti-fraud solutions
@@ -160,7 +160,7 @@ Ensure individual crypto players can verify their identity, alongside a host of 
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/products/New_Design/ICONS/Crypto_Casino_new/reporting_and_analytics.webp" alt="Reporting and Analytics" />
+<img src="<?php echo f_path ?>img/products/crypto-img10.webp" alt="Reporting and Analytics" />
 </div>
 <div class="title darkPurple">
 Reporting and Analytics
@@ -187,8 +187,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/pragmatic-play-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/pragmatic-play-provider09f2.png?fmt=webp" alt="pragmatic play games" title="Pragmatic Play" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img1.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img1.png" alt="pragmatic play games" title="Pragmatic Play" />
 </picture>
 </div>
 </div>
@@ -197,8 +197,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/evolution-gaming-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/evolution-gaming-provider09f2.png?fmt=webp" alt="evolution casino games" title="Evolution Gaming" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img2.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img2.png" alt="evolution casino games" title="Evolution Gaming" />
 </picture>
 </div>
 </div>
@@ -207,8 +207,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/NetEnt.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/NetEnt09f2.png?fmt=webp" alt="netent casino games" title="NetEnt" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img3.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img3.png" alt="netent casino games" title="NetEnt" />
 </picture>
 </div>
 </div>
@@ -217,8 +217,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/Nolimit-City.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/Nolimit-City09f2.png?fmt=webp" alt="nolimit city slot" title="Nolimit City" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img4.png" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img4.png" alt="nolimit city slot" title="Nolimit City" />
 </picture>
 </div>
 </div>
@@ -227,8 +227,8 @@ NuxGame is always evolving its partner list to include crypto casino-orientated 
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/playson-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/playson-provider09f2.png?fmt=webp" alt="Playson" title="Playson" />
+<source srcset="<?php echo f_path ?>img/products/crypto-sec-img5.webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/products/crypto-sec-img5.webp" alt="Playson" title="Playson" />
 </picture>
 </div>
 </div>
@@ -250,8 +250,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/AAVE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/AAVEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="AAVE" title="AAVE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/AAVE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper1.png" alt="AAVE" title="AAVE" />
 </picture>
 </div>
 <h3>AAVE</h3>
@@ -261,8 +261,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/APE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/APEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="APE" title="APE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/APE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper2.png" alt="APE" title="APE" />
 </picture>
 </div>
 <h3>APE</h3>
@@ -272,8 +272,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ATOM.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ATOMaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ATOM" title="ATOM" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ATOM.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper3.png" alt="ATOM" title="ATOM" />
 </picture>
 </div>
 <h3>ATOM</h3>
@@ -283,8 +283,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BCH.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BCHaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BCH" title="BCH" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BCH.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper4.png" alt="BCH" title="BCH" />
 </picture>
 </div>
 <h3>BCH</h3>
@@ -294,8 +294,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BNB.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BNBaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BNB" title="BNB" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BNB.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper5.webp" alt="BNB" title="BNB" />
 </picture>
 </div>
 <h3>BNB</h3>
@@ -305,8 +305,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BTC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BTCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BTC" title="BTC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BTC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper6.png" alt="BTC" title="BTC" />
 </picture>
 </div>
 <h3>BTC</h3>
@@ -316,8 +316,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BUSD.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/BUSDaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="BUSD" title="BUSD" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/BUSD.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper7.png" alt="BUSD" title="BUSD" />
 </picture>
 </div>
 <h3>BUSD</h3>
@@ -327,8 +327,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DAI.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/DAIaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="DAI" title="DAI" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DAI.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper8.png" alt="DAI" title="DAI" />
 </picture>
 </div>
 <h3>DAI</h3>
@@ -338,8 +338,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DOGE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/DOGEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="DOGE" title="DOGE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/DOGE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper9.png" alt="DOGE" title="DOGE" />
 </picture>
 </div>
 <h3>DOGE</h3>
@@ -349,8 +349,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ETCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ETC" title="ETC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper10.png" alt="ETC" title="ETC" />
 </picture>
 </div>
 <h3>ETC</h3>
@@ -360,8 +360,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETH.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ETHaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ETH" title="ETH" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ETH.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper11.png" alt="ETH" title="ETH" />
 </picture>
 </div>
 <h3>ETH</h3>
@@ -371,8 +371,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/USDTaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="USDT" title="USDT" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper12.png" alt="USDT" title="USDT" />
 </picture>
 </div>
 <h3>USDT</h3>
@@ -382,8 +382,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/EOS.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/EOSaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="EOS" title="EOS" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/EOS.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper13.png" alt="EOS" title="EOS" />
 </picture>
 </div>
 <h3>EOS</h3>
@@ -393,8 +393,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/FTM.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/FTMaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="FTM" title="FTM" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/FTM.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper14.png" alt="FTM" title="FTM" />
 </picture>
 </div>
 <h3>FTM</h3>
@@ -404,8 +404,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/KAVA.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/KAVAaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="KAVA" title="KAVA" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/KAVA.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper15.png" alt="KAVA" title="KAVA" />
 </picture>
 </div>
 <h3>KAVA</h3>
@@ -415,8 +415,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/LINK.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/LINKaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="LINK" title="LINK" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/LINK.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper16.png" alt="LINK" title="LINK" />
 </picture>
 </div>
 <h3>LINK</h3>
@@ -426,8 +426,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/Litecoin.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/Litecoinaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="Litecoin" title="Litecoin" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/Litecoin.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper17.png" alt="Litecoin" title="Litecoin" />
 </picture>
 </div>
 <h3>Litecoin</h3>
@@ -437,8 +437,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/MATIC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/MATICaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="MATIC" title="MATIC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/MATIC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper18.png" alt="MATIC" title="MATIC" />
 </picture>
 </div>
 <h3>MATIC</h3>
@@ -448,8 +448,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/mBTC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/mBTCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="mBTC" title="mBTC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/mBTC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper19.png" alt="mBTC" title="mBTC" />
 </picture>
 </div>
 <h3>mBTC</h3>
@@ -459,8 +459,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ONE.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/ONEaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="ONE" title="ONE" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/ONE.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper20.png" alt="ONE" title="ONE" />
 </picture>
 </div>
 <h3>ONE</h3>
@@ -470,8 +470,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/PAR.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/PARaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="PAR" title="PAR" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/PAR.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper21.png" alt="PAR" title="PAR" />
 </picture>
 </div>
 <h3>PAR</h3>
@@ -481,8 +481,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SHIB.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/SHIBaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="SHIB" title="SHIB" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SHIB.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper22.png" alt="SHIB" title="SHIB" />
 </picture>
 </div>
 <h3>SHIB</h3>
@@ -492,8 +492,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SOL.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/SOLaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="SOL" title="SOL" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/SOL.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper23.png" alt="SOL" title="SOL" />
 </picture>
 </div>
 <h3>SOL</h3>
@@ -503,8 +503,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDC.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/USDCaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="USDC" title="USDC" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDC.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper24.png" alt="USDC" title="USDC" />
 </picture>
 </div>
 <h3>USDC</h3>
@@ -514,8 +514,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/USDTaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="USDT #2" title="USDT #2" />
+<!-- <source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/USDT.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper25.png" alt="USDT #2" title="USDT #2" />
 </picture>
 </div>
 <h3>USDT</h3>
@@ -525,8 +525,8 @@ load more
 <div class="paymentsInfo">
 <div class="paymentsImageWrapper">
 <picture>
-<source srcset="/glide/@public/products/New_Design/ICONS/CryptoIcons/XRP.png?w=74&h=75&fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/products/New_Design/ICONS/CryptoIcons/XRPaeee.png?w=74&amp;h=75&amp;fmt=webp" alt="XRP" title="XRP" />
+<!-- <source srcset="/ glide/@public/products/New_Design/ICONS/CryptoIcons/XRP.png?w=74&h=75&fmt=webp" type="image/webp"> -->
+<img loading="lazy" src="<?php echo f_path ?>img/products/swipper27.png" alt="XRP" title="XRP" />
 </picture>
 </div>
 <h3>XRP</h3>
@@ -575,7 +575,7 @@ Offer a cross-border solution that can be used worldwide
 </ul>
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/New%20opportunities344d.webp?w=540&amp;h=680&amp;fit=crop" alt="NEW OPPORTUNITIES #2" />
+<img src="<?php echo f_path ?>img/products/opportunities.webp" alt="NEW OPPORTUNITIES #2" />
 </div>
 </div>
 </div>
@@ -607,7 +607,7 @@ Verified Web3 wallets
 </ul>
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/Financial-security%20(1)344d.webp?w=540&amp;h=680&amp;fit=crop" alt="FINANCIAL SECURITY #2" />
+<img src="<?php echo f_path ?>img/products/security.webp" alt="FINANCIAL SECURITY #2" />
 </div>
 </div>
 </div>
@@ -695,7 +695,7 @@ Crypto Casino Software Solutions
 <div class="item">
 <a href="../solutions/betting-casino-api.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Website_API.webp" alt="Website API" />
+<img src="<?php echo f_path ?>img/products/api.webp" alt="Website API" />
 <h3>Website API</h3>
 </div>
 <div class="itemText">
@@ -708,7 +708,7 @@ Integrate sports and casino content into your website using our scalable and pra
 <div class="item">
 <a href="../solutions/turnkey.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp" alt="Turnkey" />
+<img src="<?php echo f_path ?>img/products/key.webp" alt="Turnkey" />
 <h3>Turnkey</h3>
 </div>
 <div class="itemText">
@@ -721,7 +721,7 @@ Get a fully-fledged platform within 48 hours - embrace the turnkey solution to s
 <div class="item">
 <a href="../solutions/legal-services.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Legal_Services_(2).webp" alt="Legal Services" />
+<img src="<?php echo f_path ?>img/products/legal.webp" alt="Legal Services" />
 <h3>Legal Services</h3>
 </div>
 <div class="itemText">
@@ -1229,6 +1229,1044 @@ Send
 </div>
 </div> 
 
+
+<script src="../assets/js/main.libae52.js?v=5"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+<link href="../https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+<script src="../https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+<script src="../js/imask5fa8.js?id=84547b5ee220bf2a82fd"></script>
+<script src="../js/common820b.js?id=c3981478afe40676d58c"></script>
+<script>
+function initFeaturesSlider() {
+if($('.innerRowFeatures')) {
+$('.innerRowFeatures').slick({
+slidesToShow: 1,
+speed: 600,
+cssEase: 'linear',
+arrows: true,
+loop: true,
+autoplay: true,
+autoplaySpeed: 6000,
+dots: false
+})
+}
+}
+if (($(window).width() < 561)) {
+initFeaturesSlider();
+}
+$(window).on('resize', function() {
+if (($(window).width() < 561)) {
+initFeaturesSlider();
+} else {
+if ($('.innerRowFeatures') && $('.innerRowFeatures').hasClass('slick-initialized')) {
+$('.innerRowFeatures').slick('unslick');
+}
+}
+})
+</script>
+<script async>
+$(document).ready(function() {
+$('head').append('<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">');
+$('head').append('<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&amp;family=Open+Sans:wght@300;400;600;700;800&amp;display=swap">');
+})
+</script>
+<script>
+if ('bitcoin-casino' === 'casino-game-aggregation') {
+setTimeout(()=>{
+$('.aggregationOfferPopup').addClass('show');
+}, 30000)
+function hideAggregationOfferPopup() {
+$('.aggregationOfferPopup').removeClass('show');
+}
+$(window).on('click', function(e){
+if(e.target.classList.contains('aggregationOfferPopup')){
+hideAggregationOfferPopup();
+}
+})
+$('.aggregationOfferPopupWrap').on('click', function(){
+hideAggregationOfferPopup();
+})
+}
+if ($('#paymentsList')) {
+// Value to change the speed
+let tickerSpeed = 1;
+let flickity = null;
+let isPaused = false;
+const slideshowEl = document.getElementById('paymentsList');
+const update = () => {
+if (isPaused) return;
+if (flickity.slides) {
+flickity.x = (flickity.x - tickerSpeed) % flickity.slideableWidth;
+flickity.selectedIndex = flickity.dragEndRestingSelect();
+flickity.updateSelectedSlide();
+flickity.settle(flickity.x);
+}
+window.requestAnimationFrame(update);
+};
+const pause = () => {
+isPaused = true;
+};
+const play = () => {
+if (isPaused) {
+isPaused = false;
+window.requestAnimationFrame(update);
+}
+};
+flickity = new Flickity(slideshowEl, {
+autoPlay: false,
+prevNextButtons: false,
+pageDots: false,
+draggable: true,
+percentPosition: false,
+wrapAround: true,
+selectedAttraction: 0.015,
+friction: 0.25
+});
+flickity.x = 0;
+if (slideshowEl) {
+slideshowEl.addEventListener('mouseenter', pause, false);
+slideshowEl.addEventListener('focusin', pause, false);
+slideshowEl.addEventListener('mouseleave', play, false);
+slideshowEl.addEventListener('focusout', play, false);
+}
+flickity.on('dragStart', () => {
+isPaused = true;
+});
+update();
+}
+if ($('.providersListSlider')) {
+$(".providersListSlider").slick({
+slidesToShow: 6,
+dots: true,
+speed: 600,
+cssEase: 'linear',
+arrows: false,
+infinite: true,
+slidesToScroll: 6,
+autoplay: true,
+autoplaySpeed: 2000,
+responsive: [{
+breakpoint: 991,
+settings: {
+slidesToShow: 4,
+}
+},
+{
+breakpoint: 600,
+settings: {
+slidesToShow: 3,
+}
+},
+]
+})
+}
+if ($(".singleProductsWrapper .prod_slider")) {
+setTimeout(() => {
+$(".singleProductsWrapper .prod_slider").slick({
+slidesToShow: 4,
+dots: true,
+speed: 600,
+cssEase: 'linear',
+arrows: false,
+infinite: true,
+variableWidth: true,
+autoplay: true,
+autoplaySpeed: 2000,
+responsive: [{
+breakpoint: 769,
+settings: {
+slidesToShow: 3,
+}
+},]
+})
+}, 300)
+$(".singleProductsWrapper .prod_slider").on('afterChange', function (event, slick, currentSlide, nextSlide) {
+setTimeout(() => {
+$(".singleProductsWrapper .prod_slider").slick('slickPlay');
+}, 2000);
+});
+}
+</script>
+<script>
+$(document).ready(function() {
+$('head').append('<link rel="stylesheet" href="../css/gamesa84d.css?id=a4d0be9aaffdab535467">');
+$('.btnTxtToggle').on('click', function () {
+$(this).siblings('.linkItem').find('.itemText .txt').toggle()
+$(this).toggleClass('open')
+})
+})
+$(window).on('resize', function () {
+onlineSectionWork()
+});
+function onlineSectionWork() {
+if ($('.onlineSection')) {
+$('.innerBtnText .itemBtn').on('click', function () {
+onlineSectionClick($(this))
+})
+function onlineSectionClick(el) {
+let id = el.data('id')
+$('.innerBtnText .itemBtn').each(function () {
+$(this).removeClass('active')
+})
+$('.innerBtnText .item').each(function () {
+if ($(this).data('text') == id) {
+// itemHeight = $(this).height()
+// onlineSectionH()
+$(this).addClass('active')
+} else {
+$(this).removeClass('active')
+}
+})
+el.addClass('active')
+}
+}
+}
+onlineSectionWork()
+</script>
+<script>
+// Set height for langSwitcher block in mobile
+const currentLangElem = document.querySelector('.mobLang .currentLang');
+if(currentLangElem) {
+document.addEventListener('click', function() {
+let langElems = $(".mobLang .langSwitcher li");
+let h = 31; // Height padding without margin last element
+langElems.each(function() {
+h = h + $(this).outerHeight( true );
+})
+$('.mobLang .langSwitcher').css('height', h);
+})
+}
+</script>
+ 
+ 
+ 
+ 
+<script type="text/javascript" id="zsiqchat">
+var $zoho = $zoho || {};
+$zoho.salesiq = $zoho.salesiq || {
+widgetcode: "01c50d1f4e2bc899c544f6e4c6dd6d2cf908f6f917c2c3f713afd7cdbcb2aa1f",
+values: {},
+ready: function() {}
+};
+$zoho.salesiq.ready = function(embedinfo) {
+$zoho.salesiq.floatbutton.visible("show");
+$zoho.salesiq.visitor.getGeoDetails();
+if ($(window).width() < 1025) {
+$zoho.salesiq.floatwindow.visible("30");
+}
+}
+$zoho.salesiq.afterReady = function(info) {
+if (info.Country == "INDIA"
+|| info.Country == "PAKISTAN"
+|| info.Country == "BANGLADESH"
+|| info.Country == "AFGHANISTAN"
+|| info.Country == "BENIN"
+|| info.Country == "BOLIVIA"
+|| info.Country == "BRAZIL"
+|| info.Country == "BURKINA FASO"
+|| info.Country == "CAMBODIA"
+|| info.Country == "CHAD"
+|| info.Country == "DEMOCRATIC REPUBLIC OF THE CONGO"
+|| info.Country == "ETHIOPIA"
+|| info.Country == "GHANA"
+|| info.Country == "HAITI"
+|| info.Country == "KENYA"
+|| info.Country == "LAOS"
+|| info.Country == "MADAGASCAR"
+|| info.Country == "MALI"
+|| info.Country == "MOZAMBIQUE"
+|| info.Country == "NEPAL"
+|| info.Country == "NICARAGUA"
+|| info.Country == "NIGERIA"
+|| info.Country == "PERU"
+|| info.Country == "SENEGAL"
+|| info.Country == "SIERRA LEONE"
+|| info.Country == "TANZANIA"
+|| info.Country == "UGANDA"
+|| info.Country == "ZAMBIA"
+) {
+$zoho.salesiq.floatbutton.visible("hide");
+$zoho.salesiq.tracking.on();
+}
+}
+var d = document;
+s = d.createElement("script");
+s.type = "text/javascript";
+s.id = "zsiqscript";
+s.defer = true;
+s.src = "https://salesiq.zoho.eu/widget";
+t = d.getElementsByTagName("script")[0];
+t.parentNode.insertBefore(s, t);
+</script>
+<script>
+$('#LEADCF8').val(location.href);
+$('.chip').on('click', function () {
+$('.chip').removeClass('active');
+$(this).addClass('active');
+let selectedValue = $(this).data('value');
+$('#selected-chip').val(selectedValue).change();
+});
+function setOnBlur() {
+var fields = $('.zcwf_row');
+var requiredCheckboxFields = fields.filter('.required-checkbox');
+var requiredRadioFields = fields.filter('.required-radio, .required-horizontal-radio');
+var requiredSelectTag = fields.filter('.required-select-tag');
+var requiredSelect = fields.filter('.required-select');
+var requireTextarea = fields.filter('.required-textarea');
+var requireText = fields.filter('.required-text');
+requiredCheckboxFields.each(function () {
+var textInput = $(this).find('input[type="text"]');
+var inputs = $(this).find('input[type="checkbox"]');
+textInput.off('blur');
+textInput.on('blur', () => {
+checkCheckboxFunction($(this).closest('.zcwf_row'));
+});
+inputs.on('change', () => checkCheckboxFunction($(this).closest('.zcwf_row')));
+});
+requiredRadioFields.each(function () {
+var textInput = $(this).find('input[type="text"]');
+var inputs = $(this).find('input[type="radio"]');
+textInput.off('blur');
+textInput.on('blur', () => {
+checkRadioFunction($(this).closest('.zcwf_row'));
+});
+inputs.on('change', () => checkRadioFunction($(this).closest('.zcwf_row')));
+});
+requiredSelectTag.each(function () {
+var inputs = $(this).find('input[type="hidden"]');
+var textInput = $(this).find('input[type="text"]');
+textInput.off('blur');
+textInput.on('blur', () => {
+checkSelectTagFunction($(this).closest('.zcwf_row'));
+});
+inputs.on('change', () => checkSelectTagFunction($(this).closest('.zcwf_row')));
+});
+requiredSelect.each(function () {
+var selectElement = $(this).find('select');
+selectElement.on('change', () => {
+checkSelectFunction($(this).closest('.zcwf_row'));
+});
+});
+requireTextarea.each(function () {
+var textareaElement = $(this).find('textarea');
+textareaElement.on('blur', () => {
+checkTextareaFunction($(this));
+});
+});
+requireText.each(function () {
+var textElement = $(this).find('input');
+textElement.on('blur', () => {
+checkTextFunction($(this));
+});
+});
+}
+setOnBlur();
+let isCheckedCustomRadio = false;
+$('.custom-radio input[type="radio"]').on('click', function () {
+isCheckedCustomRadio = !isCheckedCustomRadio;
+$(this).prop('checked', isCheckedCustomRadio);
+isCheckedCustomRadio = !isCheckedCustomRadio;
+$('.custom-radio .addInfo').val('');
+});
+$('.custom-radio .addInfo').on('input', function () {
+$('.custom-radio input[type="radio"]').prop('checked', false);
+});
+document.addEventListener('DOMContentLoaded', function () {
+localStorage.removeItem('userEmail');
+});
+function validateEmail() {
+var form = document.forms['WebToLeads386089000027683141'];
+var emailFld = form.querySelectorAll('[ftype=email]');
+var i;
+for (i = 0; i < emailFld.length; i++) {
+var emailVal = emailFld[i].value;
+if (emailVal.replace(/^\s+|\s+$/g, '').length != 0) {
+var atpos = emailVal.indexOf('@');
+var dotpos = emailVal.lastIndexOf('.');
+if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= emailVal.length) {
+alert('Please enter a valid email address. ');
+emailFld[i].focus();
+return false;
+}
+}
+}
+return true;
+}
+function checkMandatory() {
+function gaClientId() {
+try {
+return window.client_Id;
+} catch (e) {
+console.error('cannot find gtag');
+}
+return 'gtag undefined!';
+}
+let check = validateForm();
+/** @type {string} */
+let leadcf7 = $('#LEADCF7');
+let currentValue = leadcf7.val();
+let dialCode = $('.iti__selected-dial-code:first').text();
+if ($('#LEADCF6').val() == 'WhatsApp') {
+leadcf7.val(!currentValue.includes(dialCode) ? dialCode + currentValue : currentValue);
+}
+$('#LEADCF10').val(gaClientId());
+scrollToNextField('Email');
+scrollToNextField('Last_Name');
+if (!check) {
+console.error('validation error');
+return false;
+}
+var mndFields = new Array('Last Name');
+var fldLangVal = new Array('Last\x20Name');
+for (i = 0; i < mndFields.length; i++) {
+var fieldObj = document.forms['WebToLeads386089000027683141'][mndFields[i]];
+if (fieldObj) {
+if (fieldObj.value.replace(/^\s+|\s+$/g, '').length == 0) {
+if (fieldObj.type == 'file') {
+alert('Please select a file to upload.');
+fieldObj.focus();
+return false;
+}
+alert(fldLangVal[i] + ' cannot be empty.');
+fieldObj.focus();
+return false;
+} else if (fieldObj.nodeName == 'SELECT') {
+if (fieldObj.options[fieldObj.selectedIndex].value == '-None-') {
+alert(fldLangVal[i] + ' cannot be none.');
+fieldObj.focus();
+return false;
+}
+} else if (fieldObj.type == 'checkbox') {
+if (fieldObj.checked == false) {
+alert('Please accept ' + fldLangVal[i]);
+fieldObj.focus();
+return false;
+}
+}
+try {
+if (fieldObj.name == 'Last Name') {
+name = fieldObj.value;
+}
+} catch (e) {
+console.error('cannot set fieldObj.name', e);
+}
+}
+}
+trackVisitor();
+if (!validateEmail()) {
+return false;
+}
+document.querySelector('.crmWebToEntityForm .formsubmit').setAttribute('disabled', true);
+}
+function tooltipShow(el) {
+var tooltip = el.nextElementSibling;
+var tooltipDisplay = tooltip.style.display;
+if (tooltipDisplay == 'none') {
+var allTooltip = document.getElementsByClassName('zcwf_tooltip_over');
+for (i = 0; i < allTooltip.length; i++) {
+allTooltip[i].style.display = 'none';
+}
+tooltip.style.display = 'block';
+} else {
+tooltip.style.display = 'none';
+}
+}
+var patternUrl = /(^\s|\d)|(http(s)?|ftp(s)?|[:.,?;+"@=_@&%!#$?\-\/])/;
+var patternEmail = new RegExp(
+"[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?",
+);
+var patternTelegram = new RegExp('^@.+');
+var allInputs = document.querySelectorAll('input');
+var allTextarea = document.querySelector('textarea');
+var allSelectOptions = document.querySelectorAll('.selectOptions');
+var allSelectOptionsArray = [...allSelectOptions];
+var selectOptItem = document.querySelectorAll('.selectOptItem');
+var allSelectOptItem = [...selectOptItem];
+var allArrat = [...allInputs];
+allArrat.forEach((input) => {
+input.onblur = function () {
+let attrInput = input.getAttribute('id');
+let nameInput = input.getAttribute('name');
+checkFocus(input);
+};
+});
+function selectChange(e) {
+let optionText = e.options[e.selectedIndex].text;
+let renderedElement = document.querySelector('.select2-selection__rendered');
+if (optionText === 'Skype' || optionText === 'WhatsApp' || optionText === 'Telegram') {
+renderedElement.style.color = '#000000';
+} else {
+renderedElement.style.color = '#00000066';
+}
+allSelectOptionsArray.forEach((item) => item.classList.remove('show'));
+allSelectOptionsArray.find((item) => item.classList.contains(e.value))?.classList.toggle('show');
+allSelectOptItem.forEach((item) => {
+item.removeAttribute('id');
+item.removeAttribute('name');
+});
+allSelectOptItem.forEach((item) => {
+if (item.getAttribute('data-name') == e.value) {
+item.setAttribute('id', 'LEADCF7');
+item.setAttribute('name', 'LEADCF7');
+}
+});
+}
+function checkInternal() {
+let result = true;
+let emailVal = false;
+let nameVal = false;
+let typeVal = true;
+let selectOpt = document.querySelector('.show');
+let email = document.querySelector('input[name="Email"]');
+let name = document.querySelector('input[name="Last Name"]');
+let message = document.querySelector('textarea');
+let messVal = message.value.length > 60 && validateEnglishText(message.value);
+if (name.value.match(patternUrl) || name.value == '') {
+name.classList.add('novalid');
+if (name.value.match(patternUrl)) {
+leadClass.parentFind(name).querySelector('.error').classList.add('active');
+leadClass.parentFind(name).querySelector('.empty').classList.remove('active');
+} else {
+leadClass.parentFind(name).querySelector('.error').classList.remove('active');
+leadClass.parentFind(name).querySelector('.empty').classList.add('active');
+}
+nameVal = false;
+} else {
+name.classList.remove('novalid');
+leadClass.parentFind(name).querySelector('.empty').classList.remove('active');
+nameVal = true;
+}
+if (!patternEmail.test(email.value) || email.value == '') {
+email.classList.add('novalid');
+if (!patternEmail.test(email.value)) {
+leadClass.parentFind(email).querySelector('.error').classList.add('active');
+leadClass.parentFind(email).querySelector('.empty').classList.remove('active');
+} else {
+leadClass.parentFind(email).querySelector('.error').classList.remove('active');
+leadClass.parentFind(email).querySelector('.empty').classList.add('active');
+}
+emailVal = false;
+} else {
+email.classList.remove('novalid');
+leadClass.parentFind(name).querySelector('.empty').classList.remove('active');
+emailVal = true;
+}
+if (message.value.length < 60 && validateEnglishText(message.value)) {
+leadClass.parentFind(message).querySelector('.language-error').classList.remove('active');
+message.classList.add('novalid');
+if (message.value === '') {
+leadClass.parentFind(message).querySelector('.error').classList.remove('active');
+leadClass.parentFind(message).querySelector('.empty').classList.add('active');
+} else {
+leadClass.parentFind(message).querySelector('.error').classList.add('active');
+leadClass.parentFind(message).querySelector('.empty').classList.remove('active');
+}
+}
+if (selectOpt) {
+if (selectOpt.querySelector('input[name="Skype"]')) {
+let skype = selectOpt.querySelector('input[name="Skype"]');
+if (skype.value == '') {
+skype.classList.add('novalid');
+leadClass.parentFind(skype).querySelector('.empty').classList.add('active');
+typeVal = false;
+} else {
+skype.classList.remove('novalid');
+leadClass.parentFind(skype).querySelector('.empty').classList.remove('active');
+typeVal = true;
+}
+} else if (selectOpt.querySelector('input[name="Telegram"]')) {
+let telegram = selectOpt.querySelector('input[name="Telegram"]');
+if (!patternTelegram.test(telegram.value)) {
+telegram.classList.add('novalid');
+leadClass.parentFind(telegram).querySelector('.empty').classList.add('active');
+typeVal = false;
+} else if (telegram.value.length < 6) {
+leadClass.parentFind(telegram).querySelector('.error').classList.add('active');
+typeVal = false;
+} else {
+telegram.classList.remove('novalid');
+leadClass.parentFind(telegram).querySelector('.empty').classList.remove('active');
+typeVal = true;
+}
+} else if (selectOpt.querySelector('input[name="WhatsApp"]')) {
+let whatsApp = selectOpt.querySelector('input[name="WhatsApp"]');
+if (whatsApp.value == '') {
+whatsApp.classList.add('novalid');
+leadClass.parentFind(whatsApp).querySelector('.empty').classList.add('active');
+typeVal = false;
+if (whatsApp.classList.contains('error')) {
+whatsApp.classList.add('novalid');
+leadClass.parentFind(whatsApp).querySelector('.empty').classList.remove('active');
+typeVal = false;
+}
+} else if (whatsApp.classList.contains('error')) {
+leadClass.parentFind(whatsApp).querySelector('.empty').classList.remove('active');
+typeVal = false;
+} else {
+whatsApp.classList.remove('novalid');
+leadClass.parentFind(whatsApp).querySelector('.empty').classList.remove('active');
+typeVal = true;
+}
+}
+}
+return emailVal && nameVal && typeVal && messVal;
+}
+leadClass = {
+empty: (elem, novalid, valid, parent) => {
+elem.classList.add(`${novalid}`);
+elem.classList.remove(`${valid}`);
+parent.querySelector('.empty').classList.add('active');
+parent.querySelector('.error').classList.remove('active');
+},
+error: (elem, novalid, valid, parent) => {
+elem.classList.add(`${novalid}`);
+elem.classList.remove(`${valid}`);
+parent.querySelector('.empty').classList.remove('active');
+parent.querySelector('.error').classList.add('active');
+},
+valid: (elem, novalid, valid, parent) => {
+elem.classList.add(`${valid}`);
+elem.classList.remove(`${novalid}`);
+parent.querySelector('.empty').classList.remove('active');
+parent.querySelector('.error').classList.remove('active');
+},
+novalid: (elem, novalid, parent) => {
+elem.classList.add(`${novalid}`);
+parent.querySelector('.empty').classList.remove('active');
+parent.querySelector('.error').classList.remove('active');
+},
+parentFind: (elem) => {
+let parent = elem.closest('.zcwf_col_fld');
+return parent;
+},
+};
+function checkFocus(el) {
+let attrInput = el.getAttribute('id');
+let nameInput = el.getAttribute('name');
+let parent = el.closest('.zcwf_col_fld');
+if (attrInput == 'Email') {
+if (el.value == '') {
+leadClass.empty(el, 'novalid', 'valid', parent);
+} else if (!patternEmail.test(el.value)) {
+leadClass.error(el, 'novalid', 'valid', parent);
+} else {
+leadClass.valid(el, 'novalid', 'valid', parent);
+}
+}
+if (attrInput == 'Last_Name') {
+if (el.value == '') {
+leadClass.empty(el, 'novalid', 'valid', parent);
+} else if (el.value.match(patternUrl)) {
+leadClass.error(el, 'novalid', 'valid', parent);
+} else {
+leadClass.valid(el, 'novalid', 'valid', parent);
+}
+}
+if (nameInput == 'Skype') {
+if (el.parentNode.parentNode.classList.contains('show')) {
+if (el.value == '') {
+leadClass.empty(el, 'novalid', 'valid', parent);
+} else {
+leadClass.valid(el, 'novalid', 'valid', parent);
+}
+}
+}
+if (nameInput == 'Telegram') {
+if (el.parentNode.parentNode.classList.contains('show')) {
+if (!patternTelegram.test(el.value)) {
+leadClass.empty(el, 'novalid', 'valid', parent);
+} else if (el.value.length < 6) {
+leadClass.error(el, 'novalid', 'valid', parent);
+} else {
+leadClass.valid(el, 'novalid', 'valid', parent);
+}
+}
+}
+if (nameInput == 'WhatsApp') {
+if (el.parentNode.parentNode.parentNode.classList.contains('show')) {
+if (el.value == '') {
+leadClass.empty(el, 'novalid', 'valid', parent);
+}
+}
+}
+if (el.tagName.toLowerCase() === 'textarea') {
+if (el.value == '') {
+leadClass.empty(el, 'novalid', 'valid', parent);
+} else if (el.value.length < 60 && validateEnglishText(el.value)) {
+leadClass.error(el, 'novalid', 'valid', parent);
+} else if (!validateEnglishText(el.value)) {
+leadClass.novalid(el, 'novalid', parent);
+} else {
+leadClass.valid(el, 'novalid', 'valid', parent);
+}
+}
+// return result
+}
+var fieldsIsValid = true;
+/** @returns {boolean} */
+function validateForm() {
+fieldsIsValid = true;
+var fields = $('.zcwf_row');
+var requiredCheckboxFields = fields.filter('.required-checkbox');
+var requiredRadioFields = fields.filter('.required-radio, .required-horizontal-radio');
+var requiredSelectTag = fields.filter('.required-select-tag');
+var requiredSelect = fields.filter('.required-select');
+var requireTextarea = fields.filter('.required-textarea');
+var requireText = fields.filter('.required-text');
+var licenceCheckbox = fields.filter('.required-checkbox-licence');
+requiredCheckboxFields.each(function () {
+checkCheckboxFunction($(this));
+});
+requiredRadioFields.each(function () {
+checkRadioFunction($(this));
+});
+requiredSelectTag.each(function () {
+checkSelectTagFunction($(this));
+});
+requiredSelect.each(function () {
+checkSelectFunction($(this));
+});
+requireTextarea.each(function () {
+checkTextareaFunction($(this));
+});
+requireText.each(function () {
+checkTextFunction($(this));
+});
+licenceCheckbox.each(function () {
+licenceCheckboxFunction($(this));
+});
+return fieldsIsValid;
+}
+function checkCheckboxFunction(element) {
+var field = element;
+var inputs = field.find('input[type="checkbox"]');
+var textInput = field.find('input[type="text"]');
+var isChecked = inputs.is(':checked');
+var isTextInputFilled = textInput.val().trim() !== '';
+textInput.off('input');
+textInput.on('input', () => {
+checkCheckboxFunction(element);
+});
+inputs.off('change');
+inputs.on('change', function () {
+checkCheckboxFunction(element);
+});
+if (!isChecked && !isTextInputFilled) {
+field.addClass('novalid');
+field.find('.zcwf_col_help.required-select-one').addClass('active');
+fieldsIsValid = false;
+} else {
+field.removeClass('novalid');
+field.find('.zcwf_col_help.required-select-one').removeClass('active');
+}
+}
+function checkRadioFunction(element) {
+var field = element;
+var inputs = field.find('input[type="radio"]');
+var textInput = field.find('input[type="text"]');
+var isChecked = inputs.is(':checked');
+var isTextInputFilled = textInput.val().trim() !== '';
+textInput.off('input');
+textInput.on('input', () => {
+checkRadioFunction(element);
+});
+inputs.off('change');
+inputs.on('change', function () {
+checkRadioFunction(element);
+});
+if (!isChecked && !isTextInputFilled) {
+fieldsIsValid = false;
+field.addClass('novalid');
+field.find('.zcwf_col_help.required-select-one').addClass('active');
+} else {
+field.removeClass('novalid');
+field.find('.zcwf_col_help.required-select-one').removeClass('active');
+}
+}
+function checkSelectTagFunction(element) {
+var field = element;
+var inputs = field.find('input[type="hidden"]');
+var textInput = field.find('input[type="text"]');
+var isChecked = inputs.val() !== '';
+var isTextInputFilled = textInput.val().trim() !== '';
+textInput.off('input');
+textInput.on('input', () => {
+checkSelectTagFunction(element);
+});
+inputs.off('change');
+inputs.on('change', function () {
+checkSelectTagFunction(element);
+});
+if (!isChecked && !isTextInputFilled) {
+fieldsIsValid = false;
+field.addClass('novalid');
+field.find('.zcwf_col_help.required-select-one').addClass('active');
+} else {
+field.removeClass('novalid');
+field.find('.zcwf_col_help.required-select-one').removeClass('active');
+}
+}
+function checkSelectFunction(element) {
+var field = element;
+var selectElement = field.find('select');
+var selectedIndex = selectElement.prop('selectedIndex');
+selectElement.on('change', function () {
+checkSelectFunction(element);
+});
+if (selectedIndex === -1 || selectElement.val() === '-None-') {
+fieldsIsValid = false;
+field.addClass('novalid');
+field.find('.zcwf_col_help.required-select-one').addClass('active');
+} else {
+field.removeClass('novalid');
+field.find('.zcwf_col_help.required-select-one').removeClass('active');
+}
+}
+let message = document.getElementById('LEADCF1');
+let userEemail = document.getElementById('Email');
+let langError = document.querySelector('.language-error');
+userEemail.addEventListener('input', function () {
+localStorage.setItem('userEmail', userEemail.value);
+});
+if (!message) {
+message = document.querySelector('textarea');
+}
+if (message) {
+message.addEventListener('input', () => {
+let userInput = message.value;
+if (validateEnglishText(userInput) && userInput.length > 60) {
+message.classList.add('valid');
+}
+if (!validateEnglishText(userInput)) {
+message.classList.remove('valid');
+message.classList.add('novalid');
+leadClass.parentFind(message).querySelector('.language-error').classList.add('active');
+message.classList.add('language-error-style');
+langError.classList.add('language-error-style');
+} else {
+leadClass.parentFind(message).querySelector('.language-error').classList.remove('active');
+message.classList.remove('language-error-style');
+langError.classList.remove('language-error-style');
+}
+});
+}
+function validateEnglishText(textarea) {
+let inputText = textarea;
+let englishRegex = /^[a-zA-Z0-9.,!?'"“”‘’():;@#$%*?&^\/\s_+-/*=<>|~[\](){}<>]+$/;
+let portugueseRegex = /[áàãâéêíóôõúüçÁÀÃÂÉÊÍÓÔÕÚÜÇ]/;
+if (!englishRegex.test(inputText) || portugueseRegex.test(inputText)) {
+return false;
+} else {
+return true;
+}
+}
+function checkTextareaFunction(element) {
+var field = element;
+var textareaElement = field.find('textarea');
+var textareaValue = textareaElement.val().trim();
+textareaElement.off('input');
+textareaElement.on('input', function () {
+checkTextareaFunction(element);
+});
+if (textareaValue === '' || textareaValue.length < 60 ) {
+fieldsIsValid = false;
+field.removeClass('warning');
+field.find('.zcwf_col_help.language-error').removeClass('active');
+field.addClass('novalid');
+field.find('.zcwf_col_help.required-textarea').addClass('active');
+} else if (!validateEnglishText(textareaValue)) {
+field.removeClass('valid');
+field.addClass('novalid');
+field.find('.zcwf_col_help.required-textarea').removeClass('active');
+field.find('.zcwf_col_help.language-error').addClass('active');
+} else {
+field.removeClass('warning');
+field.find('.zcwf_col_help.language-error').removeClass('active');
+field.removeClass('novalid');
+field.find('.zcwf_col_help.required-textarea').removeClass('active');
+}
+}
+function checkTextFunction(element) {
+var field = element;
+var textElement = field.find('input');
+var textValue = textElement.val().trim();
+textElement.off('input');
+textElement.on('input', function () {
+checkTextFunction(element);
+});
+if (textValue === '') {
+fieldsIsValid = false;
+field.addClass('novalid');
+field.find('.zcwf_col_help.empty').addClass('active');
+} else {
+field.removeClass('novalid');
+field.find('.zcwf_col_help.empty').removeClass('active');
+}
+}
+function licenceCheckboxFunction(element) {
+var field = element;
+var textElement = field.find('input[type="checkbox"]');
+var isChecked = textElement.is(':checked');
+textElement.off('change');
+textElement.on('change', function () {
+licenceCheckboxFunction(element);
+});
+if (!isChecked) {
+fieldsIsValid = false;
+field.addClass('novalid');
+field.find('.checkbox-box').addClass('active');
+} else {
+field.removeClass('novalid');
+field.find('.checkbox-box').removeClass('active');
+}
+}
+document.addEventListener("DOMContentLoaded", function() {
+let textarea = document.getElementById("LEADCF1");
+let languageError = document.querySelector('.zcwf_col_help.language-error.warning-text');
+let grandparentDivElement = languageError.parentElement.parentElement;
+textarea.addEventListener("input", function() {
+let textareaValue = textarea.value;
+if (textareaValue.length < 1) {
+textarea.classList.remove("language-error-style");
+if (languageError.classList.contains('active')) {
+languageError.classList.remove('active');
+}
+}
+if (textareaValue.length && !validateEnglishText(textareaValue) && !textarea.hasAttribute("required")) {
+textarea.classList.add("language-error-style");
+grandparentDivElement.classList.add('novalid');
+}
+if (textareaValue.length && textareaValue.length > 60) {
+textarea.classList.remove('novalid');
+}
+if (textareaValue.length && !textarea.hasAttribute("required")) {
+let parentDiv = textarea.closest('.novalid');
+if (parentDiv) {
+parentDiv.classList.remove('novalid');
+}
+}
+});
+});
+let areEmailAndNameFilled = false;
+function scrollToNextField(inputId) {
+if (window.innerWidth <= 768) {
+let input = document.querySelector(`#${inputId}`); let labelForInput = document.querySelector(`label[for="${inputId}"]`);
+if (input && labelForInput) {
+let zcwfColFldDiv = input.closest('.zcwf_col_fld');
+if (zcwfColFldDiv && zcwfColFldDiv.querySelector('.active')) {
+let labelOffset = labelForInput.getBoundingClientRect().top;
+window.scrollTo({
+top: window.pageYOffset + labelOffset - 75,
+behavior: 'smooth'
+});
+}
+}
+let requiredHorizontalRadioDiv = document.querySelector('.required-horizontal-radio.novalid');
+let emailParent = document.querySelector('#Email').closest('.zcwf_col_fld');
+let nameParent = document.querySelector('#Last_Name').closest('.zcwf_col_fld');
+areEmailAndNameFilled = !emailParent.querySelector('.active') && !nameParent.querySelector('.active')
+if (requiredHorizontalRadioDiv && emailParent && nameParent && areEmailAndNameFilled) {
+let divOffset = requiredHorizontalRadioDiv.getBoundingClientRect().top;
+window.scrollTo({
+top: window.pageYOffset + divOffset - 75,
+behavior: 'smooth'
+});
+}
+let textareaWithRequiredAttribute = document.querySelector('textarea[required]');
+let textareaWithRequiredAttributeParent = textareaWithRequiredAttribute ? textareaWithRequiredAttribute.closest('.zcwf_col_fld') : null;
+if (areEmailAndNameFilled && textareaWithRequiredAttribute && textareaWithRequiredAttributeParent && textareaWithRequiredAttributeParent.querySelector('.active')) {
+let textareaOffset = textareaWithRequiredAttribute.getBoundingClientRect().top;
+window.scrollTo({
+top: window.pageYOffset + textareaOffset - 75,
+behavior: 'smooth'
+});
+}
+}
+}
+</script>
+<script id="VisitorTracking">
+var $zoho = $zoho || {};
+$zoho.salesiq = $zoho.salesiq || {
+widgetcode: 'siq764713f69b849fc40ad6627b142b33aeff1725a8ea6b4437253b0ff6a8796fac',
+values: {},
+};
+$zoho.salesiq.ready = function (embedinfo) {
+$zoho.salesiq.floatbutton.visible('show');
+$zoho.salesiq.visitor.getGeoDetails();
+};
+$zoho.salesiq.afterReady = function (info) {
+if (
+info.Country == 'INDIA' ||
+info.Country == 'PAKISTAN' ||
+info.Country == 'BANGLADESH' ||
+info.Country == 'AFGHANISTAN' ||
+info.Country == 'BENIN' ||
+info.Country == 'BOLIVIA' ||
+info.Country == 'BRAZIL' ||
+info.Country == 'BURKINA FASO' ||
+info.Country == 'CAMBODIA' ||
+info.Country == 'CHAD' ||
+info.Country == 'DEMOCRATIC REPUBLIC OF THE CONGO' ||
+info.Country == 'ETHIOPIA' ||
+info.Country == 'GHANA' ||
+info.Country == 'HAITI' ||
+info.Country == 'KENYA' ||
+info.Country == 'LAOS' ||
+info.Country == 'MADAGASCAR' ||
+info.Country == 'MALI' ||
+info.Country == 'MOZAMBIQUE' ||
+info.Country == 'NEPAL' ||
+info.Country == 'NICARAGUA' ||
+info.Country == 'NIGERIA' ||
+info.Country == 'PERU' ||
+info.Country == 'SENEGAL' ||
+info.Country == 'SIERRA LEONE' ||
+info.Country == 'TANZANIA' ||
+info.Country == 'UGANDA' ||
+info.Country == 'ZAMBIA'
+) {
+$zoho.salesiq.floatbutton.visible('hide');
+$zoho.salesiq.tracking.on();
+}
+};
+var d = document;
+s = d.createElement('script');
+s.type = 'text/javascript';
+s.id = 'zsiqscript';
+s.defer = true;
+s.src = 'https://salesiq.zoho.eu/widget';
+t = d.getElementsByTagName('script')[0];
+t.parentNode.insertBefore(s, t);
+function trackVisitor() {
+const formName = 'WebToLeads386089000027683141';
+try {
+if ($zoho) {
+var LDTuvidObj = document.forms[formName]['LDTuvid'];
+if (LDTuvidObj) {
+LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();
+}
+var firstnameObj = document.forms[formName]['First Name'];
+if (firstnameObj) {
+name = firstnameObj.value + ' ' + name;
+}
+$zoho.salesiq.visitor.name(name);
+var emailObj = document.forms[formName]['Email'];
+if (emailObj) {
+email = emailObj.value;
+$zoho.salesiq.visitor.email(email);
+}
+}
+} catch (e) {
+console.error(e);
+}
+}
+</script>
+
+<script defer id="wf_anal" src="https://crm.zohopublic.eu/crm/WebFormAnalyticsServeServlet?rid=7c1c2cd4f497e24b3b22368391d6071784a5123e31b01f26501499e3ffe56d2378a5f7588798995e885c342e68599e96gid60d5431e13ab02c3a9193ec14535d434cb4a63de464de613b36eb689f66484a5gid3e059b33b15b7feb4c772c6d3f989f41d947e465cfe5f3e45ff1c8e8d2c2a14cgid4d4a5918198d479794381b2145d3850514ac1578f7f0fa8453da3630f8d78e4b&amp;tw=ad78f0149dc96398b1fc9510bc14a429abc6f3a202772b1d5149f5a3467a2183"></script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'89e5ab0e7803a6bc',t:'MTcyMDE2NDgyMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='../cdn-cgi/challenge-platform/h/g/scripts/jsd/d2a97f6b6ec9/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 
 
 
