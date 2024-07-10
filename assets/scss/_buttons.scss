@@ -1,0 +1,13 @@
+.btnStyle1 {
+    height: 36px;
+    & .btnIcon {
+        margin-top: 0.19rem;
+        transition: 0.3s linear;
+    }
+    &:hover {
+        & .btnIcon {
+            transform: translateX(5px);
+        }
+    }
+}
+
