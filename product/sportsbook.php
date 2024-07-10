@@ -28,10 +28,9 @@
                   <div class="innerRowImage">
                      <video autoplay loop muted playsinline
                         poster="../glide/%40public/products/New_Design/sportsbook.webp">
-                        <source src="<?php echo f_path ?>img/product/sportsbook.php" type="video/mp4">
+                        <source src="<?php echo f_path ?>img/products/Sportsbook.mp4" type="video/mp4">
                         <source src="<?php echo f_path ?>img/product/sportsbook.php" type="video/webm">
-                        <img src="<?php echo f_path ?> img/product/sportsbook.webp" alt="Sports Betting Software"title="Sports Betting Software" />
-                        <!-- <img src="../glide/%40public/products/New_Design/sportsbook.webp" alt="Sports Betting Software"title="Sports Betting Software" /> -->
+                        <img src=" img/product/sportsbook.webp" alt="Sports Betting Software"title="Sports Betting Software" />
                      </video>
                   </div>
                   <div class="innerRowItem">
@@ -73,7 +72,7 @@
                      <div class="itemWrap">
                         <div class="itemImg">
                            <img
-                              src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/all_major_sports_events_and_odds.webp"
+                              src="<?php echo f_path ?>/img/products/major.webp"
                               alt="All major sports events and odds" />
                         </div>
                         <div class="title darkPurple">
@@ -87,7 +86,7 @@
                      <div class="itemWrap">
                         <div class="itemImg">
                            <img
-                              src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/live_match_tracker.webp"
+                              src="<?php echo f_path ?>/img/products/livematch.webp"
                               alt="Live Match Tracker" />
                         </div>
                         <div class="title darkPurple">
@@ -98,7 +97,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/event_statistics.webp"
+                           <img src="<?php echo f_path ?>img/products/livematch.webp"
                               alt="Event Statistics" />
                         </div>
                         <div class="title darkPurple">
@@ -110,7 +109,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/crypto_friendly.webp"
+                           <img src="<?php echo f_path ?>img/products/crypto.webp"
                               alt="Crypto Friendly" />
                         </div>
                         <div class="title darkPurple">
@@ -123,7 +122,7 @@
                      <div class="itemWrap">
                         <div class="itemImg">
                            <img
-                              src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/third_party_software_compatible.webp"
+                              src="<?php echo f_path ?>img/products/third_party.webp"
                               alt="Third Party Software Compatible" />
                         </div>
                         <div class="title darkPurple">
@@ -135,7 +134,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/margin_control.webp"
+                           <img src="<?php echo f_path ?>img/products/margin.webp"
                               alt="Margin Control" />
                         </div>
                         <div class="title darkPurple">
@@ -147,7 +146,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/multilingual.webp"
+                           <img src="<?php echo f_path ?>img/products/multilingual.webp"
                               alt="Multilingual" />
                         </div>
                         <div class="title darkPurple">
@@ -160,7 +159,7 @@
                      <div class="itemWrap">
                         <div class="itemImg">
                            <img
-                              src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/anti_fraud_solutions.webp"
+                              src="<?php echo f_path ?>img/products/anti.webp"
                               alt="Anti-fraud Solutions" />
                         </div>
                         <div class="title darkPurple">
@@ -173,7 +172,7 @@
                      <div class="itemWrap">
                         <div class="itemImg">
                            <img
-                              src="../glide/%40public/products/New_Design/ICONS/Sportsbook_New/reporting_analytics.webp"
+                              src="<?php echo f_path ?>img/products/reporting.webp"
                               alt="Reporting &amp; Analytics" />
                         </div>
                         <div class="title darkPurple">
