@@ -201,38 +201,38 @@
                      <div class="sportProviderItemSport">
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/%d0%a0%d0%b5%d1%81%d1%83%d1%80%d1%81%201%201_4x.webp"
+                              <img src="<?php echo f_path ?>img/products/statscore.webp"
                                  alt="Statscore" />
                            </div>
                         </div>
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/products/New_Design/digital4.png" alt="Digital" />
+                              <img src="<?php echo f_path ?>img/products/digital.webp" alt="Digital" />
                            </div>
                         </div>
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/Lsports%20logo%204.webp" alt="lssports" />
+                              <img src="<?php echo f_path ?>img/products/lsports.webp" alt="lssports" />
                            </div>
                         </div>
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/provider/Group%203889.webp" alt="betradar" />
+                              <img src="<?php echo f_path ?>img/products/Group3889.webp" alt="betradar" />
                            </div>
                         </div>
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/products/New_Design/oddin4.png" alt="Oddin" />
+                              <img src="<?php echo f_path ?>img/products/oddin4.webp" alt="Oddin" />
                            </div>
                         </div>
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/products/New_Design/pandorascore4.png" alt="pandorascore" />
+                              <img src="<?php echo f_path ?>img/products/pandorascore4.webp" alt="pandorascore"/>
                            </div>
                         </div>
                         <div class="item">
                            <div class="logo">
-                              <img src="../glide/%40public/products/New_Design/genius4.png" alt="genius" />
+                              <img src="<?php echo f_path ?>img/products/genius4.webp" alt="genius" />
                            </div>
                         </div>
                      </div>
@@ -265,8 +265,8 @@
                            </div>
                            <div class="whyUsImage">
                               <img
-                                 src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/One%20stop%20Solution69fd.webp?w=230&amp;h=290&amp;fit=crop"
-                                 alt="ONE STOP SOLUTION" />
+                                 src="<?php echo f_path ?>img/products/soluttion.webp"
+                                 alt="ONE STOP SOLUTION"/>
                            </div>
                            <ul>
                               <li>
@@ -285,7 +285,7 @@
                         </div>
                         <div class="whyUsImage">
                            <img
-                              src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/One%20stop%20Solution344d.webp?w=540&amp;h=680&amp;fit=crop"
+                              src="<?php echo f_path ?>img/products/solutin.webp"
                               alt="ONE STOP SOLUTION #2" />
                         </div>
                      </div>
@@ -323,7 +323,7 @@
                         </div>
                         <div class="whyUsImage">
                            <img
-                              src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/Advanced_risk344d.png?w=540&amp;h=680&amp;fit=crop"
+                              src="<?php echo f_path ?>img/products/advanced.webp"
                               alt="CLEVER MARKETING TOOLS #2" />
                         </div>
                      </div>
@@ -416,7 +416,7 @@
                         <a href="../solutions/betting-casino-api.html" class="linkItem">
                            <div class="itemImage">
                               <img
-                                 src="../glide/%40public/products/New_Design/New_icons_products_solutions/Website_API.webp"
+                                 src="<?php echo f_path ?>img/products/WebsiteAPI.webp"
                                  alt="Website API" />
                               <h3>Website API</h3>
                            </div>
@@ -432,7 +432,7 @@
                         <a href="../solutions/turnkey.html" class="linkItem">
                            <div class="itemImage">
                               <img
-                                 src="../glide/%40public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp"
+                                 src="<?php echo f_path ?>img/products/Turnkey.webp"
                                  alt="Turnkey" />
                               <h3>Turnkey</h3>
                            </div>
@@ -448,7 +448,7 @@
                         <a href="../solutions/legal-services.html" class="linkItem">
                            <div class="itemImage">
                               <img
-                                 src="../glide/%40public/products/New_Design/New_icons_products_solutions/Legal_Services_(2).webp"
+                                 src="<?php echo f_path ?>img/products/Legal.webp"
                                  alt="Legal Services" />
                               <h3>Legal Services</h3>
                            </div>
