@@ -67,7 +67,7 @@
                                 <ul class="contacts">
                                     <li><a href="cdn-cgi/l/email-protection.html#70191e161f301e050817111d155e131f1d"><span
                                                 class="__cf_email__"
-                                                data-cfemail="3d54535b527d5348455a5c5058135e5250">[email&#160;protected]</span></a>
+                                                data-cfemail="3d54535b527d5348455a5c5058135e5250">info@nuxgame.com</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -121,11 +121,10 @@
                     <div class="item">
                         <div class="footerLogos">
                             <div class="logo">
-                                <!-- <img src="/img/footer/sigma-logo.svg"> -->
                                 <img src="<?php echo f_path ?>img/footer/sigma-logo.svg" />
                             </div>
                             <div class="logo">
-                                <img src="/img/footer/GambleAware-logo.webp">
+                            <img src="<?php echo f_path ?>img/footer/GambleAware-logo.webp" />
                             </div>
                             <div class="logo">
                                 <div id="apg-be5b7d95-1bfc-4f92-b5e1-ec5c7ae3eba6"
@@ -143,7 +142,7 @@
                                     src="https://be5b7d95-1bfc-4f92-b5e1-ec5c7ae3eba6.snippet.antillephone.com/apg-seal.js"></script>
                             </div>
                             <div class="logo">
-                                <img src="/img/footer/PCI.webp">
+                            <img src="<?php echo f_path ?>img/footer/PCI.webp" />
                             </div>
                             <div class="logo">
                                 <div class="dmca">
@@ -151,21 +150,22 @@
                                         href="https://www.dmca.com/Protection/Status.aspx?ID=7218619b-9b4f-4997-82c8-a9a7803a98d8&amp;refurl=https://nuxgame.com/partners"
                                         title="DMCA.com Protection Status" class="dmca-badge">
                                         <img loading="lazy" src="/img/_dmca_premi_badge_4.webp"
-                                            alt="DMCA.com Protection Status" class="image_dmca">
+                                            class="image_dmca">
                                         <img loading="lazy" rel="nofollow"
                                             src="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=7218619b-9b4f-4997-82c8-a9a7803a98d8"
-                                            alt="DMCA.com Protection Status"></a>
+                                            ></a>
                                     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
                                 </div>
                             </div>
                             <div class="logo">
-                                <img src="/img/footer/eu_gdpr_compliant-logo.webp">
+                                <img src="<?php echo f_path ?>img/footer/eu_gdpr_compliant-logo.webp" />
                             </div>
                             <div class="logo">
-                                <img loading="lazy" src="/img/footer/respon.webp">
+                                <img src="<?php echo f_path ?>img/footer/respon.webp" />
                             </div>
                             <div class="logo">
-                                <img loading="lazy" src="/img/footer/gaming_labs.webp" alt="gaming labs">
+                                <img src="<?php echo f_path ?>img/footer/gaming_labs.webp" />
+
                             </div>
                         </div>
                     </div>
