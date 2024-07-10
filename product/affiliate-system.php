@@ -28,9 +28,9 @@
                     <div class="innerRow">
                         <div class="innerRowImage">
                             <video autoplay loop muted playsinline
-                                poster="../glide/%40public/products/New_Design/affiliatesystem.webp">
-                                <source src="../storage/products/New_Design/mp4/Affiliate_system.mp4" type="video/mp4">
-                                <source src="../storage/products/New_Design/webM/Affiliate-system.webm"
+                                poster="<?php echo f_path ?>img/glide/@public/products/New_Design/affiliatesystem.webp">
+                                <source src="<?php echo f_path ?>img/storage/products/New_Design/mp4/Affiliate_system.mp4" type="video/mp4">
+                                <source src="<?php echo f_path ?>img/storage/products/New_Design/webM/Affiliate-system.webm"
                                     type="video/webm">
                                 <img src="../glide/%40public/products/New_Design/affiliatesystem.webp"
                                     alt="Affiliate System" title="Affiliate System" />
@@ -76,7 +76,7 @@
                         <div class="innerRowFeatures">
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="../glide/%40public/products/New_Design/ICONS/Affiliate_systen_new/flexible_commission_builder.webp"
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/flexible_commission_builder.webp"
                                         alt="Flexible Commission Builder" />
                                 </div>
                                 <div class="title darkPurple">
@@ -87,7 +87,7 @@
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="../glide/%40public/products/New_Design/ICONS/Affiliate_systen_new/automated_links_generation.webp"
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/automated_links_generation.webp"
                                         alt="Automated Links Generation" />
                                 </div>
                                 <div class="title darkPurple">
@@ -99,7 +99,7 @@
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="../glide/%40public/products/New_Design/ICONS/Affiliate_systen_new/finance_module.webp"
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/finance_module.webp"
                                         alt="Finance Module" />
                                 </div>
                                 <div class="title darkPurple">
@@ -110,7 +110,7 @@
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="../glide/%40public/products/New_Design/ICONS/Affiliate_systen_new/dynamic_content_storage.webp"
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/dynamic_content_storage.webp"
                                         alt="Dynamic Content Storage" />
                                 </div>
                                 <div class="title darkPurple">
@@ -122,7 +122,7 @@
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="../glide/%40public/products/New_Design/ICONS/Affiliate_systen_new/multiplatform.webp"
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/multiplatform.webp"
                                         alt="Multiplatform" />
                                 </div>
                                 <div class="title darkPurple">
@@ -134,7 +134,7 @@
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="../glide/%40public/products/New_Design/ICONS/Affiliate_systen_new/reporting_analytics.webp"
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/reporting_analytics.webp"
                                         alt="Reporting &amp; Analytics" />
                                 </div>
                                 <div class="title darkPurple">
@@ -173,7 +173,7 @@
                                         inclusive features can provide the support to any campaign.
                                     </div>
                                     <div class="whyUsImage">
-                                        <img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Multiply_commission_plans_54069fd.webp?w=230&amp;h=290&amp;fit=crop"
+                                        <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Multiply_commission_plans_54069fd.webp"
                                             alt="MULTIPLY COMMISION PLANS" />
                                     </div>
                                     <ul>
@@ -192,7 +192,7 @@
                                     </ul>
                                 </div>
                                 <div class="whyUsImage">
-                                    <img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Multiply_commission_plans_540344d.webp?w=540&amp;h=680&amp;fit=crop"
+                                    <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Multiply_commission_plans_540344d.webp"
                                         alt="MULTIPLY COMMISION PLANS #2" />
                                 </div>
                             </div>
@@ -208,7 +208,7 @@
                                         provides informative data and analytics to signpost further areas of growth:
                                     </div>
                                     <div class="whyUsImage">
-                                        <img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Effective_affiliate_manegement_54069fd.webp?w=230&amp;h=290&amp;fit=crop"
+                                        <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Effective_affiliate_manegement_54069fd.webp?w=230&amp;h=290&amp;fit=crop"
                                             alt="EFFECTIVE AFFILIATE MANAGEMENT" />
                                     </div>
                                     <ul>
@@ -227,7 +227,7 @@
                                     </ul>
                                 </div>
                                 <div class="whyUsImage">
-                                    <img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Effective_affiliate_manegement_540344d.webp?w=540&amp;h=680&amp;fit=crop"
+                                    <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Effective_affiliate_manegement_540344d.webp?w=540&amp;h=680&amp;fit=crop"
                                         alt="EFFECTIVE AFFILIATE MANAGEMENT #2" />
                                 </div>
                             </div>
@@ -249,7 +249,7 @@
                             <div class="item">
                                 <a href="../solutions/turnkey.html" class="linkItem">
                                     <div class="itemImage">
-                                        <img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp"
+                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp"
                                             alt="Turnkey" />
                                         <h3>Turnkey</h3>
                                     </div>
@@ -264,7 +264,7 @@
                             <div class="item">
                                 <a href="../solutions/betting-casino-api.html" class="linkItem">
                                     <div class="itemImage">
-                                        <img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Website_API.webp"
+                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Website_API.webp"
                                             alt="Website API" />
                                         <h3>Website API</h3>
                                     </div>
@@ -279,7 +279,7 @@
                             <div class="item">
                                 <a href="../solutions/legal-services.html" class="linkItem">
                                     <div class="itemImage">
-                                        <img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Legal_Services_(2).webp"
+                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Legal_Services_(2).webp"
                                             alt="Legal Services" />
                                         <h3>Legal Services</h3>
                                     </div>
@@ -467,8 +467,8 @@
                                         </div>
                                     </div>
                                     <div class="innerRowImage">
-                                        <img src="../img/contact_img.webp" alt="contact us" class="contactImgDesc" />
-                                        <img src="../img/contact_img_mobile.webp" alt="contact us"
+                                        <img src="<?php echo f_path ?>img/contact_img.webp" alt="contact us" class="contactImgDesc" />
+                                        <img src="<?php echo f_path ?>img/contact_img_mobile.webp" alt="contact us"
                                             class="contactImgMobile" />
                                     </div>
                                 </div>
