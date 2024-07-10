@@ -27,8 +27,8 @@
             <div class="singleProductsHeader">
                <div class="innerRow">
                   <div class="innerRowImage">
-                     <video autoplay loop muted playsinline poster="../glide/%40public/products/New_Design/online_casino.webp">
-                        <source src="../storage/products/New_Design/mp4/OnlineCasino.mp4" type="video/mp4">
+                     <video autoplay loop muted playsinline poster="https://nuxgame.com/glide/@public/products/New_Design/online_casino.webp">
+                        <source src="<?php echo f_path ?>img/products/OnlineCasino.mp4" type="video/mp4">
                         <source src="../storage/products/New_Design/webM/Online_casino.webm" type="video/webm">
                         <img src="../glide/%40public/products/New_Design/online_casino.webp" alt="Online Casino Software" title="Online Casino Software" />
                      </video>
@@ -74,7 +74,7 @@
                   <div class="innerRowFeatures">
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/large_portfolio_of_top_performing_content.webp" alt="Large portfolio of top performing content" />
+                           <img src="<?php echo f_path ?>img/products/feature-img1.webp" alt="Large portfolio of top performing content" />
                         </div>
                         <div class="title darkPurple">
                            Large portfolio of top performing content
@@ -86,7 +86,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/responsive_design_across_desktop_and_mobile.webp" alt="Responsive design across desktop and mobile" />
+                           <img src="<?php echo f_path ?>img/products/feature-img2.webp" alt="Responsive design across desktop and mobile" />
                         </div>
                         <div class="title darkPurple">
                            Responsive design across desktop and mobile
@@ -97,7 +97,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/efficient_back_office.webp" alt="Efficient back office" />
+                           <img src="<?php echo f_path ?>img/products/feature-img3.webp" alt="Efficient back office" />
                         </div>
                         <div class="title darkPurple">
                            Efficient back office
@@ -108,7 +108,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/advanced_risk_management.webp" alt="Advanced risk management" />
+                           <img src="<?php echo f_path ?>img/products/feature-img4.webp" alt="Advanced risk management" />
                         </div>
                         <div class="title darkPurple">
                            Advanced risk management
@@ -119,7 +119,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/loyalty_and_tiers_program.webp" alt="Loyalty and tiers program" />
+                           <img src="<?php echo f_path ?>img/products/feature-img5.webp" alt="Loyalty and tiers program" />
                         </div>
                         <div class="title darkPurple">
                            Loyalty and tiers program
@@ -130,7 +130,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/multi_balance_with_multiple_payment_methods.webp" alt="Multi-balance with multiple payment methods" />
+                           <img src="<?php echo f_path ?>img/products/feature-img6.webp" alt="Multi-balance with multiple payment methods" />
                         </div>
                         <div class="title darkPurple">
                            Multi-balance with multiple payment methods
@@ -142,7 +142,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/marketing_module.webp" alt="Marketing module" />
+                           <img src="<?php echo f_path ?>img/products/feature-img7.webp" alt="Marketing module" />
                         </div>
                         <div class="title darkPurple">
                            Marketing module
@@ -153,7 +153,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/anti_fraud_solutions.webp" alt="Anti-fraud Solutions" />
+                           <img src="<?php echo f_path ?>img/products/feature-img8.webp" alt="Anti-fraud Solutions" />
                         </div>
                         <div class="title darkPurple">
                            Anti-fraud Solutions
@@ -164,7 +164,7 @@
                      </div>
                      <div class="itemWrap">
                         <div class="itemImg">
-                           <img src="../glide/%40public/products/New_Design/ICONS/Online_Casino_New/reporting_and_analytics.webp" alt="Reporting and analytics" />
+                           <img src="<?php echo f_path ?>img/products/feature-img9.webp" alt="Reporting and analytics" />
                         </div>
                         <div class="title darkPurple">
                            Reporting and analytics
@@ -194,8 +194,8 @@
                      <div class="providersInfo">
                         <div class="providersImageWrapper">
                            <picture>
-                              <source srcset="/glide/@public/provider/pragmatic-play-provider.png?fmt=webp" type="image/webp">
-                              <img loading="lazy" src="../glide/%40public/provider/pragmatic-play-provider09f2.png?fmt=webp" alt="pragmatic play games" title="Pragmatic Play" />
+                              <source srcset="<?php echo f_path ?>img/products/providers-img1.webp" type="image/webp">
+                              <img loading="lazy" src="<?php echo f_path ?>img/products/providers-img1.webp" alt="pragmatic play games" title="Pragmatic Play" />
                            </picture>
                         </div>
                      </div>
@@ -204,8 +204,8 @@
                      <div class="providersInfo">
                         <div class="providersImageWrapper">
                            <picture>
-                              <source srcset="/glide/@public/provider/evolution-gaming-provider.png?fmt=webp" type="image/webp">
-                              <img loading="lazy" src="../glide/%40public/provider/evolution-gaming-provider09f2.png?fmt=webp" alt="evolution casino games" title="Evolution Gaming" />
+                              <source srcset="<?php echo f_path ?>img/products/providers-img2.webp" type="image/webp">
+                              <img loading="lazy" src=".<?php echo f_path ?>img/products/providers-img2.webp" alt="evolution casino games" title="Evolution Gaming" />
                            </picture>
                         </div>
                      </div>
@@ -214,8 +214,8 @@
                      <div class="providersInfo">
                         <div class="providersImageWrapper">
                            <picture>
-                              <source srcset="/glide/@public/provider/NetEnt.png?fmt=webp" type="image/webp">
-                              <img loading="lazy" src="../glide/%40public/provider/NetEnt09f2.png?fmt=webp" alt="netent casino games" title="NetEnt" />
+                              <source srcset="<?php echo f_path ?>img/products/providers-img3.png" type="image/webp">
+                              <img loading="lazy" src="<?php echo f_path ?>img/products/providers-img3.png" alt="netent casino games" title="NetEnt" />
                            </picture>
                         </div>
                      </div>
@@ -224,8 +224,8 @@
                      <div class="providersInfo">
                         <div class="providersImageWrapper">
                            <picture>
-                              <source srcset="/glide/@public/provider/Nolimit-City.png?fmt=webp" type="image/webp">
-                              <img loading="lazy" src="../glide/%40public/provider/Nolimit-City09f2.png?fmt=webp" alt="nolimit city slot" title="Nolimit City" />
+                              <source srcset="<?php echo f_path ?>img/products/providers-img4.png" type="image/webp">
+                              <img loading="lazy" src="<?php echo f_path ?>img/products/providers-img4.png" alt="nolimit city slot" title="Nolimit City" />
                            </picture>
                         </div>
                      </div>
@@ -234,8 +234,8 @@
                      <div class="providersInfo">
                         <div class="providersImageWrapper">
                            <picture>
-                              <source srcset="/glide/@public/provider/relax-gaming-provider.png?fmt=webp" type="image/webp">
-                              <img loading="lazy" src="../glide/%40public/provider/relax-gaming-provider09f2.png?fmt=webp" alt="Relax Gaming" title="Relax Gaming" />
+                              <source srcset="<?php echo f_path ?>img/products/providers-img5.webp" type="image/webp">
+                              <img loading="lazy" src="<?php echo f_path ?>img/products/providers-img5.webp" alt="Relax Gaming" title="Relax Gaming" />
                            </picture>
                         </div>
                      </div>
@@ -275,7 +275,7 @@
                               one back office.
                            </div>
                            <div class="whyUsImage">
-                              <img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/All-in-one%20solution69fd.webp?w=230&amp;h=290&amp;fit=crop" alt="ALL IN ONE SOLUTION" />
+                              <img src="<?php echo f_path ?>img/products/providers-solutions.webp" alt="ALL IN ONE SOLUTION" />
                            </div>
                            <ul>
                               <li>
