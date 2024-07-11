@@ -21,10 +21,10 @@
 <div class="container">
 <div class="newSingleSolutoinsHeader turnkey">
 <div class="solutionsImage">
-<video autoplay loop muted playsinline poster="../glide/%40public/solutions/New_Design/TURNKEY--SOLUTION%201.png" id="main-animation">
-<source src="../storage/products/New_Design/mp4/Turnkey_solution.mp4" type="video/mp4">
+<video autoplay loop muted playsinline poster="<?php echo f_path ?>img/glide/@public/solutions/New_Design/TURNKEY--SOLUTION%201.png" id="main-animation">
+<source src="<?php echo f_path ?>img/glide/storage/products/New_Design/mp4/Turnkey_solution.mp4" type="video/mp4">
 <source src="../storage/products/New_Design/webM/turnkey.webm" type="video/webm">
-<img src="../glide/%40public/solutions/New_Design/TURNKEY--SOLUTION%201.png" alt="Turnkey" title="Turnkey" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/TURNKEY--SOLUTION%201.png" alt="Turnkey" title="Turnkey" />
 </video>
 </div>
 <div class="solutionsText">
@@ -60,7 +60,7 @@ NuxGame’s Turnkey Solution is built to be compatible with an expansive collect
 <div class="innerRowFeatures">
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/Solutions%20icons/New/Turnkey/all_in_one_platform.webp" alt="All in one platform" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/Solutions%20icons/New/Turnkey/all_in_one_platform.webp" alt="All in one platform" />
 </div>
 <div class="title darkPurple">
 All in one platform
@@ -71,7 +71,7 @@ A time-efficient solution which comprises all the content and administration fea
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/Solutions%20icons/New/Turnkey/payment_integration.webp" alt="Payment Integration" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/Solutions%20icons/New/Turnkey/payment_integration.webp" alt="Payment Integration" />
 </div>
 <div class="title darkPurple">
 Payment Integration
@@ -82,7 +82,7 @@ Allows players to wager in multiple global currencies, simplifying payments for 
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/Solutions%20icons/New/Turnkey/technical_infrastructure.webp" alt="Technical Infrastructure" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/Solutions%20icons/New/Turnkey/technical_infrastructure.webp" alt="Technical Infrastructure" />
 </div>
 <div class="title darkPurple">
 Technical Infrastructure
@@ -92,7 +92,7 @@ Software that provides you with everything you need for an all-encompassing iGam
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/Solutions%20icons/New/Turnkey/marketing_module.webp" alt="Marketing module" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/Solutions%20icons/New/Turnkey/marketing_module.webp" alt="Marketing module" />
 </div>
 <div class="title darkPurple">
 Marketing module
@@ -103,7 +103,7 @@ Includes an affiliate and agent system for a comprehensive marketing solution
 </div>
 <div class="itemWrap">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/Solutions%20icons/New/Turnkey/personal_manager.webp" alt="Personal manager " />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/Solutions%20icons/New/Turnkey/personal_manager.webp" alt="Personal manager " />
 </div>
 <div class="title darkPurple">
 Personal manager </div>
@@ -136,7 +136,7 @@ CASINO AND SPORTSBOOK SOLUTION
 NuxGame ensures a wide variety of casino and sports content is included as part of the turnkey operator platform. We’ll provide access to high-quality gaming, Live Casino and match odds.
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Casino_and%20Sportsbook_in_one_solution69fd.png?w=230&amp;h=290&amp;fit=crop" alt="CASINO AND SPORTSBOOK SOLUTION" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Casino_and%20Sportsbook_in_one_solution69fd.png?w=230&amp;h=290&amp;fit=crop" alt="CASINO AND SPORTSBOOK SOLUTION" />
 </div>
 <ul>
 <li>
@@ -154,7 +154,7 @@ All odd types
 </ul>
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Casino_and%20Sportsbook_in_one_solution344d.png?w=540&amp;h=680&amp;fit=crop" alt="CASINO AND SPORTSBOOK SOLUTION #2" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Casino_and%20Sportsbook_in_one_solution344d.png?w=540&amp;h=680&amp;fit=crop" alt="CASINO AND SPORTSBOOK SOLUTION #2" />
 </div>
 </div>
 </div>
@@ -168,7 +168,7 @@ FULLY CUSTOMISABLE
 NuxGame can deliver a ready-to-launch bespoke platform, while giving operators full control of their business. Providing limitless operating potential, it aims to deliver a solution that maximises growth potential and drives revenue.
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Fully%20customizable69fd.png?w=230&amp;h=290&amp;fit=crop" alt="FULLY CUSTOMISABLE" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Fully%20customizable69fd.png?w=230&amp;h=290&amp;fit=crop" alt="FULLY CUSTOMISABLE" />
 </div>
 <ul>
 <li>
@@ -186,7 +186,7 @@ Marketing tools to engage customers
 </ul>
 </div>
 <div class="whyUsImage">
-<img src="../glide/%40public/solutions/New_Design/WHY%20NUXGAME_/Fully%20customizable344d.png?w=540&amp;h=680&amp;fit=crop" alt="FULLY CUSTOMISABLE #2" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Fully%20customizable344d.png?w=540&amp;h=680&amp;fit=crop" alt="FULLY CUSTOMISABLE #2" />
 </div>
 </div>
 </div>
@@ -208,7 +208,7 @@ NuxGame’s turnkey online casino solution provides means for operators to rapid
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/live24.png" alt="Rapid Deployment" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/live24.png" alt="Rapid Deployment" />
 </div>
 <div class="title">
 Rapid Deployment
@@ -221,7 +221,7 @@ Launched across your operator platform in a speedy and efficient manner
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/Ready-to-use-templates-1.png" alt="Ready-to-use Templates" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/Ready-to-use-templates-1.png" alt="Ready-to-use Templates" />
 </div>
 <div class="title">
 Ready-to-use Templates
@@ -234,7 +234,7 @@ The software can be integrated using pre-built, industry proven templates
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/Legal_consulting-1.png" alt="Legal consulting" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/Legal_consulting-1.png" alt="Legal consulting" />
 </div>
 <div class="title">
 Legal consulting
@@ -247,7 +247,7 @@ To ensure compliance with all national and international legal requirements
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/Responsive-design-1.png" alt="Responsive design" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/Responsive-design-1.png" alt="Responsive design" />
 </div>
 <div class="title">
 Responsive design
@@ -260,7 +260,7 @@ Easily adaptable for screen size and orientation to suit all devices and custome
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/7-Technical-support-1.png" alt="24/7 technical support" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/7-Technical-support-1.png" alt="24/7 technical support" />
 </div>
 <div class="title">
 24/7 technical support
@@ -273,7 +273,7 @@ Our dedicated support team is on hand to provide your business with an around th
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/Free_and_instant_updates-1.png" alt="Frequent software upgrades" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/Free_and_instant_updates-1.png" alt="Frequent software upgrades" />
 </div>
 <div class="title">
 Frequent software upgrades
@@ -286,7 +286,7 @@ Automatic updates mean you are always ahead of the game in terms of improvements
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/Multi-currency-and-multi-language-solutions-1.png" alt="Multi-currency and multi-language solution" />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/Multi-currency-and-multi-language-solutions-1.png" alt="Multi-currency and multi-language solution" />
 </div>
 <div class="title">
 Multi-currency and multi-language solution
@@ -299,7 +299,7 @@ Use the turnkey across a variety of geographical locations with no barriers to e
 <div class="itemWrap">
 <div class="itemHeader">
 <div class="itemImg">
-<img src="../glide/%40public/solutions/New_Design/turnkey_features/Build-in-Marketing-Module-1.png" alt="Built-in marketing suite " />
+<img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/turnkey_features/Build-in-Marketing-Module-1.png" alt="Built-in marketing suite " />
 </div>
 <div class="title">
 Built-in marketing suite </div>
@@ -314,7 +314,7 @@ Designed to both attract and retain players by providing promotions and rewards 
 <div class="animationsWrapper">
 <div class="relativeWrapper">
 <div class="big_triangle">
-<img src="../img/animations/turnkey-big-triangle.svg" />
+<img src="<?php echo f_path ?>img/glide/@public/animations/turnkey-big-triangle.svg" />
 </div>
 <div class="middle_triangle">
 <img src="../img/animations/turnkey-triangle.svg" />
@@ -340,8 +340,8 @@ NuxGame is always growing its partner list to provide world-class content from s
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/boldplay_red.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/boldplay_red09f2.png?fmt=webp" alt="Boldplay Games" title="Boldplay Games" />
+<source srcset="<?php echo f_path ?>img/glide/@public/provider/boldplay_red.png?fmt=webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/glide/@public/provider/boldplay_red09f2.png?fmt=webp" alt="Boldplay Games" title="Boldplay Games" />
 </picture>
 </div>
 </div>
@@ -350,8 +350,8 @@ NuxGame is always growing its partner list to provide world-class content from s
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/pragmatic-play-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/pragmatic-play-provider09f2.png?fmt=webp" alt="pragmatic play games" title="Pragmatic Play" />
+<source srcset="<?php echo f_path ?>img/glide/@public/provider/pragmatic-play-provider.png?fmt=webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/glide/@public/provider/pragmatic-play-provider09f2.png?fmt=webp" alt="pragmatic play games" title="Pragmatic Play" />
 </picture>
 </div>
 </div>
@@ -360,8 +360,8 @@ NuxGame is always growing its partner list to provide world-class content from s
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/evolution-gaming-provider.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/evolution-gaming-provider09f2.png?fmt=webp" alt="evolution casino games" title="Evolution Gaming" />
+<source srcset="<?php echo f_path ?>img/glide/@public/provider/evolution-gaming-provider.png?fmt=webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/glide/@public/provider/evolution-gaming-provider09f2.png?fmt=webp" alt="evolution casino games" title="Evolution Gaming" />
 </picture>
 </div>
 </div>
@@ -370,8 +370,8 @@ NuxGame is always growing its partner list to provide world-class content from s
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/hacksaw.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/hacksaw09f2.png?fmt=webp" alt="HackSaw
+<source srcset="<?php echo f_path ?>img/glide/@public/provider/hacksaw.png?fmt=webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/glide/@public/provider/hacksaw09f2.png?fmt=webp" alt="HackSaw
 Gaming" title="HackSaw
 Gaming" />
 </picture>
@@ -382,8 +382,8 @@ Gaming" />
 <div class="providersInfo">
 <div class="providersImageWrapper">
 <picture>
-<source srcset="/glide/@public/provider/NetEnt.png?fmt=webp" type="image/webp">
-<img loading="lazy" src="../glide/%40public/provider/NetEnt09f2.png?fmt=webp" alt="netent casino games" title="NetEnt" />
+<source srcset="<?php echo f_path ?>img/glide/@public/provider/NetEnt.png?fmt=webp" type="image/webp">
+<img loading="lazy" src="<?php echo f_path ?>img/glide/@public/provider/NetEnt09f2.png?fmt=webp" alt="netent casino games" title="NetEnt" />
 </picture>
 </div>
 </div>
@@ -408,7 +408,7 @@ Products
 <div class="item">
 <a href="../products/online-casino.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Online_Casino.webp" alt="Online Casino" />
+<img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Online_Casino.webp" alt="Online Casino" />
 <h3>Online Casino Software</h3>
 </div>
 <div class="itemText">
@@ -421,7 +421,7 @@ Comprehensive online gaming software for the creation, operation, and promotion 
 <div class="item">
 <a href="../products/sportsbook.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Sportsbook.webp" alt="Sportsbook" />
+<img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Sportsbook.webp" alt="Sportsbook" />
 <h3>Sports Betting Software</h3>
 </div>
 <div class="itemText">
@@ -434,7 +434,7 @@ Build a full-featured sports betting website in any jurisdiction of your choice
 <div class="item">
 <a href="../products/bitcoin-casino.html" class="linkItem">
 <div class="itemImage">
-<img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Cripto_Casino.webp" alt="Crypto Casino" />
+<img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Cripto_Casino.webp" alt="Crypto Casino" />
 <h3>Bitcoin Casino Software</h3>
 </div>
 <div class="itemText">
