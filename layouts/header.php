@@ -6,9 +6,9 @@
         <div class="container">
             <div class="navigationWrapper">
                 <div class="logo">
-                    <a href="index.html">
+                    <a href="../index.php">
                         <img src="<?php echo f_path ?>img/logo_Nuxgame_2023.webp" alt="NuxGame" title="NuxGame" />
-                        </a>
+                    </a>
 
                 </div>
                 <nav class="socialNav">
@@ -84,22 +84,22 @@
                         </span>
                         <ul class="navDropDown">
                             <li class>
-                                <a href="products/online-casino.html">Online Casino</a>
+                                <a href="product/online_casino.php">Online Casino</a>
                             </li>
                             <li class>
-                                <a href="products/sportsbook.html">Sportsbook</a>
+                                <a href="product/sportsbook.php">Sportsbook</a>
                             </li>
                             <li class>
-                                <a href="products/bitcoin-casino.html">Crypto Casino</a>
+                                <a href="product/bitcoin_casino.php">Crypto Casino</a>
                             </li>
                             <li class>
-                                <a href="products/affiliate-system.html">Affiliate System</a>
+                                <a href="product/affiliate-system.php">Affiliate System</a>
                             </li>
                             <li class>
-                                <a href="products/agent-system.html">Agent System</a>
+                                <a href="product/agent-system.php">Agent System</a>
                             </li>
                             <li class>
-                                <a href="products/casino-game-aggregation.html">Casino Game Aggregation</a>
+                                <a href="product/casino-game-aggregation.php">Casino Game Aggregation</a>
                             </li>
                         </ul>
                     </li>
@@ -111,26 +111,26 @@
                         </span>
                         <ul class="navDropDown">
                             <li class>
-                                <a href="solutions/betting-casino-api.html">Website API</a>
+                                <a href="solutions/betting-casino-api.php">Website API</a>
                             </li>
                             <li class>
-                                <a href="solutions/turnkey.html">Turnkey</a>
+                                <a href="solutions/turnkey.php">Turnkey</a>
                             </li>
                             <li class>
-                                <a href="solutions/legal-services.html">Legal Services</a>
+                                <a href="solutions/legal-services.php">Legal Services</a>
                             </li>
                             <li class>
-                                <a href="solutions/aml-and-kyc.html">AML &amp; KYC</a>
+                                <a href="solutions/aml-and-kyc.php">AML &amp; KYC</a>
                             </li>
                             <li class>
-                                <a href="games.html">Game Providers</a>
+                                <a href="games.php">Game Providers</a>
                             </li>
                         </ul>
                     </li>
                     <li class>
-                        <a href="partners.html">Partners</a>
+                        <a href="partners.php">Partners</a>
                     </li>
-                    <li class><a href="demo.html">Demo</a></li>
+                    <li class><a href="demo.php">Demo</a></li>
                     <li class=" dropLi">
                         <div class="liText">Events</div>
                         <span class="icon">
@@ -139,13 +139,13 @@
                         </span>
                         <ul class="navDropDown">
                             <li class>
-                                <a href="event/ice-london-2024.html">ICE London 2024</a>
+                                <a href="event/ice-london-2024.php">ICE London 2024</a>
                             </li>
                             <li class>
-                                <a href="event/sbc-summit.html">SBC Summit 2024</a>
+                                <a href="event/sbc-summit.php">SBC Summit 2024</a>
                             </li>
                             <li class>
-                                <a href="event/sigma-world.html">Sigma Europe 2024</a>
+                                <a href="event/sigma-world.php">Sigma Europe 2024</a>
                             </li>
                         </ul>
                     </li>
@@ -153,9 +153,9 @@
                         <noindex><a rel="nofollow" href="https://nuxgame.zohorecruit.eu/jobs/Careers"
                                 target="_blank">Careers</a></noindex>
                     </li>
-                    <li class><a href="blog.html" class>Blog</a>
+                    <li class><a href="blog.php" class>Blog</a>
                     </li>
-                    <li class><a href="contact-us.html">Contact us</a></li>
+                    <li class><a href="../contact/index.php">Contact us</a></li>
                 </ul>
                 <div class="mobNavSocial">
                     <h4>FOLLOW US</h4>
