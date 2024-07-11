@@ -114,23 +114,23 @@
                                 <a href="solutions/betting-casino-api.php">Website API</a>
                             </li>
                             <li class>
-                                <a href="solutions/turnkey.php">Turnkey</a>
+                                <a href="trunky.php">Turnkey</a>
                             </li>
                             <li class>
-                                <a href="solutions/legal-services.php">Legal Services</a>
+                                <a href="legal-services.php">Legal Services</a>
                             </li>
                             <li class>
-                                <a href="solutions/aml-and-kyc.php">AML &amp; KYC</a>
+                                <a href="AML&KYC.php">AML &amp; KYC</a>
                             </li>
                             <li class>
-                                <a href="games.php">Game Providers</a>
+                                <a href="game-providers.php">Game Providers</a>
                             </li>
                         </ul>
                     </li>
                     <li class>
-                        <a href="partners.php">Partners</a>
+                        <a href="../partners/index.php">Partners</a>
                     </li>
-                    <li class><a href="demo.php">Demo</a></li>
+                    <li class><a href="../demo/index.php">Demo</a></li>
                     <li class=" dropLi">
                         <div class="liText">Events</div>
                         <span class="icon">
@@ -139,21 +139,21 @@
                         </span>
                         <ul class="navDropDown">
                             <li class>
-                                <a href="event/ice-london-2024.php">ICE London 2024</a>
+                                <a href="../events/ice-london.php">ICE London 2024</a>
                             </li>
                             <li class>
-                                <a href="event/sbc-summit.php">SBC Summit 2024</a>
+                                <a href="../events/sbc-submit.php">SBC Summit 2024</a>
                             </li>
                             <li class>
-                                <a href="event/sigma-world.php">Sigma Europe 2024</a>
+                                <a href="../events/sigma-europe.php">Sigma Europe 2024</a>
                             </li>
                         </ul>
                     </li>
                     <li class="dropLi">
-                        <noindex><a rel="nofollow" href="https://nuxgame.zohorecruit.eu/jobs/Careers"
+                        <noindex><a rel="nofollow" href="#"
                                 target="_blank">Careers</a></noindex>
                     </li>
-                    <li class><a href="blog.php" class>Blog</a>
+                    <li class><a href="../blog/index.php" class>Blog</a>
                     </li>
                     <li class><a href="../contact/index.php">Contact us</a></li>
                 </ul>
