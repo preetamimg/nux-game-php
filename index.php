@@ -8,7 +8,7 @@
         <div class="container">
             <div class="topBanner">
                 <div class="colLeft topBannerInfo">
-                    <h1 class="title">
+                    <h1 class="title" style="background-color:red;">
                         YOUR
                         iGAMING
                         SOFTWARE
