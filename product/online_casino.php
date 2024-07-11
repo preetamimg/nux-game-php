@@ -275,7 +275,7 @@
                               one back office.
                            </div>
                            <div class="whyUsImage">
-                              <img src="<?php echo f_path ?>img/products/providers-solutions.webp" alt="ALL IN ONE SOLUTION" />
+                              <img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/Fully%20customizable69fd.webp?w=230&amp;h=290&amp;fit=crop" alt="ALL IN ONE SOLUTION" />
                            </div>
                            <ul>
                               <li>
@@ -293,7 +293,7 @@
                            </ul>
                         </div>
                         <div class="whyUsImage">
-                           <img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/All-in-one%20solution344d.webp?w=540&amp;h=680&amp;fit=crop" alt="ALL IN ONE SOLUTION #2" />
+                           <img src="<?php echo f_path ?>img/products/solutions.webp" alt="ALL IN ONE SOLUTION #2" />
                         </div>
                      </div>
                   </div>
@@ -326,7 +326,7 @@
                            </ul>
                         </div>
                         <div class="whyUsImage">
-                           <img src="../glide/%40public/products/New_Design/ADVANTAGES%20webp/Fully%20customizable344d.webp?w=540&amp;h=680&amp;fit=crop" alt="FULLY CUSTOMISABLE  #2" />
+                           <img src="<?php echo f_path ?>img/products/products-2.webp" alt="FULLY CUSTOMISABLE  #2" />
                         </div>
                      </div>
                   </div>
@@ -417,7 +417,7 @@
                      <div class="item">
                         <a href="../solutions/betting-casino-api.html" class="linkItem">
                            <div class="itemImage">
-                              <img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Website_API.webp" alt="Website API" />
+                              <img src="<?php echo f_path ?>img/products/solutions-1.webp" alt="Website API" />
                               <h3>Website API</h3>
                            </div>
                            <div class="itemText">
@@ -431,7 +431,7 @@
                      <div class="item">
                         <a href="../solutions/turnkey.html" class="linkItem">
                            <div class="itemImage">
-                              <img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp" alt="Turnkey" />
+                              <img src="<?php echo f_path ?>img/products/solutions-2.webp" alt="Turnkey" />
                               <h3>Turnkey</h3>
                            </div>
                            <div class="itemText">
@@ -445,7 +445,7 @@
                      <div class="item">
                         <a href="../solutions/legal-services.html" class="linkItem">
                            <div class="itemImage">
-                              <img src="../glide/%40public/products/New_Design/New_icons_products_solutions/Legal_Services_(2).webp" alt="Legal Services" />
+                              <img src="<?php echo f_path ?>img/products/solutions-3.webp" alt="Legal Services" />
                               <h3>Legal Services</h3>
                            </div>
                            <div class="itemText">
