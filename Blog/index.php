@@ -46,7 +46,7 @@
               </p>
               <a href="blog/platform-updates/nuxgame-teams-up-with-changelly-seamless-crypto-exchanges.html"
                 class="btnBlogMore">
-                Load more <img src="img/icons/more_blog.svg" />
+                Load more <img src="<?php echo f_path ?>img/icons/more_blog.svg" />
               </a>
             </div>
             <a href="blog/platform-updates/nuxgame-teams-up-with-changelly-seamless-crypto-exchanges.html"
