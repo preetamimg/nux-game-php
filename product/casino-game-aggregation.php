@@ -3,8 +3,10 @@
 <main>
 
 
+
+
     <div class="main_wrapper newSinglePage newSingleProductPage">
-        
+
         <section class="topHeader paddingTopSection">
             <div class="container">
                 <div class="breadCrumbsWrapper">
@@ -15,44 +17,40 @@
                             <meta itemprop="position" content="1" />
                         </li>
                         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                            <span class="bread" itemprop="name">Products / Affiliate System</span>
+                            <span class="bread" itemprop="name">Products / Casino Game Aggregation</span>
                             <meta itemprop="position" content="2" />
                         </li>
                     </ul>
                 </div>
             </div>
         </section>
-        <div class="newSingleProductsWrapper affiliate-system">
+        <div class="newSingleProductsWrapper casino-game-aggregation">
             <div class="container">
                 <div class="singleProductsHeader">
                     <div class="innerRow">
                         <div class="innerRowImage">
                             <video autoplay loop muted playsinline
-                                poster="<?php echo f_path ?>img/glide/@public/products/New_Design/affiliatesystem.webp">
-                                <source src="<?php echo f_path ?>img/storage/products/New_Design/mp4/Affiliate_system.mp4" type="video/mp4">
-                                <source src="<?php echo f_path ?>img/storage/products/New_Design/webM/Affiliate-system.webm"
-                                    type="video/webm">
-                                <img src="../glide/%40public/products/New_Design/affiliatesystem.webp"
-                                    alt="Affiliate System" title="Affiliate System" />
+                                poster="<?php echo f_path ?>img/glide/@public/products/New_Design/aggregation.webp">
+                                <source src="<?php echo f_path ?>img/storage/products/New_Design/mp4/CGA_.mp4" type="video/mp4">
+                                <source src="<?php echo f_path ?>img/storage/products/New_Design/webM/CGA.webm" type="video/webm">
+                                <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/aggregation.webp"
+                                    alt="Casino Game Aggregation" title="Casino Game Aggregation" />
                             </video>
                         </div>
                         <div class="innerRowItem">
                             <h1 class="title darkPurple">
-                                Affiliate System
+                                Casino Game Aggregation
                             </h1>
                             <div class="innerItem">
                                 <p class="txt maxWidth black">
-                                    NuxGame’s Casino Affiliate Marketing Software is built to provide convenience and
-                                    efficiencies to all users, including administrators and affiliates. The software
-                                    supports all commission plans and structures from CPA to Rev-share deals and more.
-                                </p>
+                                    Our platform stores a huge array of popular casino games in one place for easy
+                                    access, via a single API that makes integration quick and straight-forward. </p>
                                 <p class="txt maxWidth black">
-                                    It offers a fully optimised dashboard for operators, making functionality and
-                                    accessibility a key focus. Its user-friendly interface helps improve the quality of
-                                    campaigns and drives more traffic to your platform.
+                                    It also provides technical and marketing support, along with data analytics, to
+                                    provide both operators and their players with the best experience.
                                 </p>
                             </div>
-                            <a href="<?php echo f_path ?>../contact-us.html" class="mainButton">
+                            <a href="../contact-us.html" class="mainButton">
                                 <div class="mainButtonText">Get proposal</div>
                                 <div class="mainButtonArrow"></div>
                             </a>
@@ -65,87 +63,174 @@
                     <div class="innerRowWrap">
                         <div class="innerRow">
                             <h2>
-                                <span>Affiliate System Features</span>
+                                <span>Game Aggregation Features</span>
                             </h2>
                             <div class="txt maxWidth black">
-                                NuxGame&#039;s affiliate marketing software supports all commission schemes, enables
-                                distinct deal setups, and enhances the affiliate dashboard&#039;s functionality,
-                                boosting campaign quality and increasing traffic to your business.
+                                NuxGame’s online casino aggregator is a state-of-the-art platform with a number of key
+                                features allowing seamless integration.
                             </div>
                         </div>
                         <div class="innerRowFeatures">
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/flexible_commission_builder.webp"
-                                        alt="Flexible Commission Builder" />
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Casino_game_aggregation/single_api_integration.webp"
+                                        alt="Single API Integration" />
                                 </div>
                                 <div class="title darkPurple">
-                                    Flexible Commission Builder
+                                    Single API Integration
                                 </div>
                                 <p class="txt maxWidth black">
-                                    Allowing tailored plans to be made for each affiliate </p>
-                            </div>
-                            <div class="itemWrap">
-                                <div class="itemImg">
-                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/automated_links_generation.webp"
-                                        alt="Automated Links Generation" />
-                                </div>
-                                <div class="title darkPurple">
-                                    Automated Links Generation
-                                </div>
-                                <p class="txt maxWidth black">
-                                    Simplifying the creation of individual links for analysis
+                                    A streamlined approach to save money and time
                                 </p>
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/finance_module.webp"
-                                        alt="Finance Module" />
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Casino_game_aggregation/120_game_providers.webp"
+                                        alt="120+ Game Providers " />
                                 </div>
                                 <div class="title darkPurple">
-                                    Finance Module
-                                </div>
+                                    120+ Game Providers </div>
                                 <p class="txt maxWidth black">
-                                    Reporting that predicts future revenue and helps plan promotional campaigns </p>
-                            </div>
-                            <div class="itemWrap">
-                                <div class="itemImg">
-                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/dynamic_content_storage.webp"
-                                        alt="Dynamic Content Storage" />
-                                </div>
-                                <div class="title darkPurple">
-                                    Dynamic Content Storage
-                                </div>
-                                <p class="txt maxWidth black">
-                                    Allowing operators to configure and store promotional materials for affiliates
+                                    A vast selection of online titles and Live Casino games from the most popular game
+                                    studios in the world
                                 </p>
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/multiplatform.webp"
-                                        alt="Multiplatform" />
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Casino_game_aggregation/efficient_back_office.webp"
+                                        alt="Efficient back office" />
                                 </div>
                                 <div class="title darkPurple">
-                                    Multiplatform
+                                    Efficient back office
                                 </div>
                                 <p class="txt maxWidth black">
-                                    Ensuring availability no matter what the device or operating system
+                                    To keep an eye on game rounds and player analytics
                                 </p>
                             </div>
                             <div class="itemWrap">
                                 <div class="itemImg">
-                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Affiliate_systen_new/reporting_analytics.webp"
-                                        alt="Reporting &amp; Analytics" />
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Casino_game_aggregation/content_updates.webp"
+                                        alt="Content updates" />
                                 </div>
                                 <div class="title darkPurple">
-                                    Reporting &amp; Analytics
+                                    Content updates
                                 </div>
                                 <p class="txt maxWidth black">
-                                    Generating reports using a host of metrics and KPIs
+                                    Providing players with access to all the latest games and info about them
+                                </p>
+                            </div>
+                            <div class="itemWrap">
+                                <div class="itemImg">
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Casino_game_aggregation/24_7_technical_support.webp"
+                                        alt="24/7 Technical Support" />
+                                </div>
+                                <div class="title darkPurple">
+                                    24/7 Technical Support
+                                </div>
+                                <p class="txt maxWidth black">
+                                    Assisting you with customer queries, 24 hours a day, seven days a week
+                                </p>
+                            </div>
+                            <div class="itemWrap">
+                                <div class="itemImg">
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ICONS/Casino_game_aggregation/reporting_and_analytics.webp"
+                                        alt="Reporting and Analytics" />
+                                </div>
+                                <div class="title darkPurple">
+                                    Reporting and Analytics
+                                </div>
+                                <p class="txt maxWidth black">
+                                    Round the clock data to analyse performance
                                 </p>
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
+            <section class="providers_list">
+                <div class="container">
+                    <div class="innerRow">
+                        <h2>
+                            <span>Casino Games Providers</span>
+                        </h2>
+                        <p class="txt black maxWidth">
+                            NuxGame’s captivating portfolio showcases the quality of our offering and the relationships
+                            we have built up with some of the best game providers on the planet. Our online casino
+                            aggregator platform houses an array of slots from award-winning suppliers. We ensure our
+                            engaging titles in our library offer a truly immersive experience.
+                        </p>
+                    </div>
+                    <div class="providersListWrapper">
+                        <a href class="providersItem">
+                            <div class="providersInfo">
+                                <div class="providersImageWrapper">
+                                    <picture>
+                                        <source srcset="<?php echo f_path ?>img/glide/@public/provider/mascot_games.png?fmt=webp"
+                                            type="image/webp">
+                                        <img loading="lazy"
+                                            src="<?php echo f_path ?>img/glide/@public/provider/mascot_games09f2.png?fmt=webp"
+                                            alt="Mascot Gaming" title="Mascot Gaming" />
+                                    </picture>
+                                </div>
+                            </div>
+                        </a>
+                        <a href class="providersItem">
+                            <div class="providersInfo">
+                                <div class="providersImageWrapper">
+                                    <picture>
+                                        <source srcset="<?php echo f_path ?>img/glide/@public/provider/ezugi-provider.png?fmt=webp"
+                                            type="image/webp">
+                                        <img loading="lazy"
+                                            src="<?php echo f_path ?>img/glide/@public/provider/ezugi-provider09f2.png?fmt=webp"
+                                            alt="Ezugi" title="Ezugi" />
+                                    </picture>
+                                </div>
+                            </div>
+                        </a>
+                        <a href class="providersItem">
+                            <div class="providersInfo">
+                                <div class="providersImageWrapper">
+                                    <picture>
+                                        <source srcset="<?php echo f_path ?>img/glide/@public/provider/tvbet-provider.png?fmt=webp"
+                                            type="image/webp">
+                                        <img loading="lazy"
+                                            src="<?php echo f_path ?>img/glide/@public/provider/tvbet-provider09f2.png?fmt=webp"
+                                            alt="TVBET" title="TVBET" />
+                                    </picture>
+                                </div>
+                            </div>
+                        </a>
+                        <a href class="providersItem">
+                            <div class="providersInfo">
+                                <div class="providersImageWrapper">
+                                    <picture>
+                                        <source srcset="<?php echo f_path ?>img/glide/@public/provider/habanero-systems-provider.png?fmt=webp"
+                                            type="image/webp">
+                                        <img loading="lazy"
+                                            src="<?php echo f_path ?>img/glide/@public/provider/habanero-systems-provider09f2.png?fmt=webp"
+                                            alt="Habanero Slot Games" title="Habanero Systems" />
+                                    </picture>
+                                </div>
+                            </div>
+                        </a>
+                        <a href class="providersItem">
+                            <div class="providersInfo">
+                                <div class="providersImageWrapper">
+                                    <picture>
+                                        <source srcset="<?php echo f_path ?>img/glide/@public/provider/vivo-gaming-provider.png?fmt=webp"
+                                            type="image/webp">
+                                        <img loading="lazy"
+                                            src="<?php echo f_path ?>img/glide/@public/provider/vivo-gaming-provider09f2.png?fmt=webp"
+                                            alt="Vivo Gaming" title="Vivo Gaming" />
+                                    </picture>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <a href="../games.html" class="btnMore">
+                        load more
+                        <img src="../img/icons/more_blog.svg" />
+                    </a>
                 </div>
             </section>
             <section class="whyUs">
@@ -153,47 +238,49 @@
                     <div class="whyUsWrapper">
                         <div class="innerRow">
                             <h2 class="darkPurple">
-                                Affiliate System Advantages
+                                Why NuxGame?
                             </h2>
                             <p class="txt black maxWidth">
-                                NuxGame’s Casino Affiliate Software provides a comprehensive and multi-faceted way to
-                                drive more traffic to your campaigns, with functionality and ease of use underpinning
-                                its development.
+                                NuxGame offers an unrivaled collection of products and solutions, including our
+                                exceptional online aggregator platform and diverse verticals like Live Casino and
+                                Virtual Sports. With over 11,700+ titles from 110+ providers, we deliver thrilling
+                                entertainment to players worldwide in both casino and sports domains.
                             </p>
                         </div>
                         <div class="whyUsInner">
                             <div class="whyUsItem">
                                 <div class="whyUsText">
                                     <h2>
-                                        MULTIPLY COMMISION PLANS
+                                        PLAYER RETENTION AND ACQUISITION TOOLS
                                     </h2>
                                     <div class="txt maxWidth black">
-                                        Whether using the casino affiliate program software to initiate a campaign using
-                                        CPA, Revenue Share, Turnover or Hybrid deals, the Affiliate System’s all
-                                        inclusive features can provide the support to any campaign.
+                                        At NuxGame, we can provide the absolute best in gamification tools for our
+                                        renowned online casino aggregator platform. The aim of these tools is to engage
+                                        players from our catalogue of game providers alongside our online casino
+                                        aggregator platform’s selection of unique tools.
                                     </div>
                                     <div class="whyUsImage">
-                                        <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Multiply_commission_plans_54069fd.webp"
-                                            alt="MULTIPLY COMMISION PLANS" />
+                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ADVANTAGES%20webp/Player%20retention%20and%20acquisition%20Tools69fd.webp?w=230&amp;h=290&amp;fit=crop"
+                                            alt="PLAYER RETENTION AND ACQUISITION TOOLS" />
                                     </div>
                                     <ul>
                                         <li>
-                                            Flexible approach to revenue
+                                            Participate in multiple campaigns
                                         </li>
                                         <li>
-                                            Multi-hierarchy access levels
+                                            Access integrated mechanics to enhance their offering
                                         </li>
                                         <li>
-                                            Generate campaigns according to segments
+                                            Regular monthly promos
                                         </li>
                                         <li>
-                                            Cost-Efficient Expansion
+                                            Utilise streamers
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="whyUsImage">
-                                    <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Multiply_commission_plans_540344d.webp"
-                                        alt="MULTIPLY COMMISION PLANS #2" />
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ADVANTAGES%20webp/Player%20retention%20and%20acquisition%20Tools344d.webp?w=540&amp;h=680&amp;fit=crop"
+                                        alt="PLAYER RETENTION AND ACQUISITION TOOLS #2" />
                                 </div>
                             </div>
                         </div>
@@ -201,34 +288,34 @@
                             <div class="whyUsItem">
                                 <div class="whyUsText">
                                     <h2>
-                                        EFFECTIVE AFFILIATE MANAGEMENT
+                                        CONVENIENT CONTENT MANAGEMENT
                                     </h2>
                                     <div class="txt maxWidth black">
-                                        NuxGame ensures its casino affiliate marketing software increases revenue and
-                                        provides informative data and analytics to signpost further areas of growth:
+                                        We want to ensure that we provide a slick, yet, convenient way of managing
+                                        content with our online casino aggregator platform, so you can:
                                     </div>
                                     <div class="whyUsImage">
-                                        <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Effective_affiliate_manegement_54069fd.webp?w=230&amp;h=290&amp;fit=crop"
-                                            alt="EFFECTIVE AFFILIATE MANAGEMENT" />
+                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ADVANTAGES%20webp/Convenient-content-management69fd.webp?w=230&amp;h=290&amp;fit=crop"
+                                            alt="CONVENIENT CONTENT MANAGEMENT" />
                                     </div>
                                     <ul>
                                         <li>
-                                            Provides a cost effective way to grow your playerbase
+                                            Ensure the most appealing games are being offered
                                         </li>
                                         <li>
-                                            Reporting Intuitive reporting and analytics dashboard
+                                            Increase and decrease bet limits
                                         </li>
                                         <li>
-                                            Generate links and codes automatically for all affiliates
+                                            Unique accounts to dedicated individual players
                                         </li>
                                         <li>
-                                            Allows for a bespoke package to be built for each affiliate
+                                            Latest news regarding games and exclusives
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="whyUsImage">
-                                    <img src="<?php echo f_path ?>img/glide/@public/solutions/New_Design/WHY_NUXGAME_/Effective_affiliate_manegement_540344d.webp?w=540&amp;h=680&amp;fit=crop"
-                                        alt="EFFECTIVE AFFILIATE MANAGEMENT #2" />
+                                    <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/ADVANTAGES%20webp/Convenient-content-management344d.webp?w=540&amp;h=680&amp;fit=crop"
+                                        alt="CONVENIENT CONTENT MANAGEMENT #2" />
                                 </div>
                             </div>
                         </div>
@@ -240,27 +327,12 @@
                     <div class="solutionsInner">
                         <div class="innerText">
                             <h2>
-                                Affiliate Software Solution
+                                Casino Game Aggregation Software Solution
                             </h2>
                             <p>Discover endless opportunities with NuxGame&#039;s comprehensive gaming software
                                 solutions</p>
                         </div>
                         <div class="innerRow">
-                            <div class="item">
-                                <a href="../solutions/turnkey.html" class="linkItem">
-                                    <div class="itemImage">
-                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp"
-                                            alt="Turnkey" />
-                                        <h3>Turnkey</h3>
-                                    </div>
-                                    <div class="itemText">
-                                        <p class="txt black">
-                                            Get a fully-fledged platform within 48 hours - embrace the turnkey solution
-                                            to start growing your business
-                                        </p>
-                                    </div>
-                                </a>
-                            </div>
                             <div class="item">
                                 <a href="../solutions/betting-casino-api.html" class="linkItem">
                                     <div class="itemImage">
@@ -272,6 +344,21 @@
                                         <p class="txt black">
                                             Integrate sports and casino content into your website using our scalable and
                                             practical solution
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="../solutions/turnkey.html" class="linkItem">
+                                    <div class="itemImage">
+                                        <img src="<?php echo f_path ?>img/glide/@public/products/New_Design/New_icons_products_solutions/Turnkey_(1).webp"
+                                            alt="Turnkey" />
+                                        <h3>Turnkey</h3>
+                                    </div>
+                                    <div class="itemText">
+                                        <p class="txt black">
+                                            Get a fully-fledged platform within 48 hours - embrace the turnkey solution
+                                            to start growing your business
                                         </p>
                                     </div>
                                 </a>
@@ -316,59 +403,63 @@
                             <div class="innerBtnText" itemscope itemprop="mainEntity"
                                 itemtype="https://schema.org/Question">
                                 <h2 class="itemBtn active" data-id="1" itemprop="name">
-                                    What is an affiliate system?
+                                    What is Casino Game Aggregation?
                                 </h2>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                     <div class="item active" data-text="1" itemprop="text">
-                                        <p style="margin-right:55px">NuxGame&rsquo;s Affiliate System, an integral part
-                                            of casino affiliate software, is designed for building and managing an
-                                            affiliate marketing network. It supports various commission structures and
-                                            provides accessible statistics, crucial for effective casino affiliate
-                                            management.</p>
+                                        <p style="margin-right:55px">Casino Game Aggregation is a service provided by a
+                                            casino games aggregator, acting as a hub to amalgamate a vast array of slots
+                                            from different game providers into a single product. This approach
+                                            simplifies the integration process for operators.</p>
+                                        <p>&nbsp;</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="innerBtnText" itemscope itemprop="mainEntity"
                                 itemtype="https://schema.org/Question">
                                 <h2 class="itemBtn " data-id="2" itemprop="name">
-                                    What commission structures are available?
+                                    What are the advantages of using a game aggregator?
                                 </h2>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                     <div class="item " data-text="2" itemprop="text">
-                                        <p style="margin-right:55px">NuxGame offers diverse commission plans as part of
-                                            its casino affiliate software, allowing operators to choose from CPA,
-                                            Revenue Share, Turnover, and Hybrid models, reflecting the flexibility
-                                            required in casino affiliate management.</p>
+                                        <p style="margin-right:55px">Utilizing a casino games aggregator offers numerous
+                                            benefits. There&#39;s a one-off API for streamlined integration, saving time
+                                            on technical support and liaising with game studios. Additionally, the
+                                            casino aggregator platform informs operators about new promotional
+                                            campaigns, enhancing the efficiency of marketing efforts.</p>
+                                        <p>&nbsp;</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="innerBtnText" itemscope itemprop="mainEntity"
                                 itemtype="https://schema.org/Question">
                                 <h2 class="itemBtn " data-id="3" itemprop="name">
-                                    How can I manage my marketing content?
+                                    Why do game aggregators provide such variety?
                                 </h2>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                     <div class="item " data-text="3" itemprop="text">
-                                        <p style="margin-right:55px">NuxGame&rsquo;s affiliate system, a component of
-                                            casino affiliate software, enables secure storage of promotional materials
-                                            and generates unique links and codes. This facilitates detailed analytics
-                                            for each affiliate&rsquo;s marketing, a key aspect of casino affiliate
-                                            management.</p>
+                                        <p style="margin-right:55px">The variety offered by game aggregators, like a
+                                            casino games aggregator, is due to varying legal frameworks across
+                                            jurisdictions. Some platforms might focus exclusively on Live Casino, while
+                                            others target specific niches like video games, tailored to the needs of
+                                            diverse markets.</p>
+                                        <p>&nbsp;</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="innerBtnText" itemscope itemprop="mainEntity"
                                 itemtype="https://schema.org/Question">
                                 <h2 class="itemBtn " data-id="4" itemprop="name">
-                                    What metrics are used to create statistics from?
+                                    What does the future look like for Casino Game Aggregation?
                                 </h2>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                     <div class="item " data-text="4" itemprop="text">
-                                        <p style="margin-right:55px">As part of its casino affiliate management, NuxGame
-                                            provides analytics and reports using metrics like dates, the number of
-                                            referred players, revenue, GGR, and more. These tools are essential in
-                                            casino affiliate software for tracking affiliate marketing activity
-                                            accurately.</p>
+                                        <p style="margin-right:55px">The future of casino game aggregation looks
+                                            promising, with an increasing number of operators and providers recognizing
+                                            the benefits of a one-stop solution. NuxGame anticipates significant growth
+                                            and popularity for its Casino Game Aggregation platform in various
+                                            jurisdictions over the coming years.</p>
+                                        <p>&nbsp;</p>
                                     </div>
                                 </div>
                             </div>
@@ -461,14 +552,14 @@
                                                     </svg>
                                                 </div>
                                                 <p class="contactInfoBlockMailLabel"><span class="__cf_email__"
-                                                        data-cfemail="9bf2f5fdf4dbf5eee3fcfaf6feb5f8f4f6">[email&#160;protected]</span>
+                                                        data-cfemail="98f1f6fef7d8f6ede0fff9f5fdb6fbf7f5">[email&#160;protected]</span>
                                                 </p>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="innerRowImage">
-                                        <img src="<?php echo f_path ?>img/contact_img.webp" alt="contact us" class="contactImgDesc" />
-                                        <img src="<?php echo f_path ?>img/contact_img_mobile.webp" alt="contact us"
+                                        <img src="../img/contact_img.webp" alt="contact us" class="contactImgDesc" />
+                                        <img src="../img/contact_img_mobile.webp" alt="contact us"
                                             class="contactImgMobile" />
                                     </div>
                                 </div>
@@ -927,9 +1018,10 @@ width: 40%;
                         id="banner-aggregation-offer" /></a>
             </div>
         </div>
-        
-      
     </div>
+
+
+
 
 
     <?php include '../layouts/footer.php' ?>
