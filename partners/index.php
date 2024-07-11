@@ -1139,6 +1139,7 @@ width: 40%;
     <?php include '../layouts/footer.php' ?>
     <?php include '../layouts/footer-link.php' ?>
 </main>
+
 <script>
     $(function () {
         $('.header').addClass('Header_inner');
