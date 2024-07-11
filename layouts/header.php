@@ -87,19 +87,20 @@
                                 <a href="product/online_casino.php">Online Casino</a>
                             </li>
                             <li class>
-                                <a href="product/sportsbook.php">Sportsbook</a>
+                                <a href="sportsbook.php">Sportsbook</a>
+                            </li>
+                            
+                            <li class>
+                                <a href="bitcoin_casino.php">Crypto Casino</a>
                             </li>
                             <li class>
-                                <a href="product/bitcoin_casino.php">Crypto Casino</a>
+                                <a href="affiliate-system.php">Affiliate System</a>
                             </li>
                             <li class>
-                                <a href="product/affiliate-system.php">Affiliate System</a>
+                                <a href="agent-system.php">Agent System</a>
                             </li>
                             <li class>
-                                <a href="product/agent-system.php">Agent System</a>
-                            </li>
-                            <li class>
-                                <a href="product/casino-game-aggregation.php">Casino Game Aggregation</a>
+                                <a href="casino-game-aggregation.php">Casino Game Aggregation</a>
                             </li>
                         </ul>
                     </li>

@@ -75,12 +75,12 @@
                         <div class="col">
                             <h4>MENU</h4>
                             <ul class="footerNav">
-                                <li><a href="partners.html">Partners</a></li>
-                                <li><a href="games.html">Providers</a></li>
-                                <li><a href="demo.html">Demo</a></li>
-                                <li><a href="blog.html" class>Blog</a>
+                                <li><a href="../partners/index.php">Partners</a></li>
+                                <li><a href="../solutions/game-providers.php">Providers</a></li>
+                                <li><a href="../demo/index.php">Demo</a></li>
+                                <li><a href="../Blog/index.php" class>Blog</a>
                                 </li>
-                                <li><a href="contact-us.html">Contact Us</a></li>
+                                <li><a href="../contact/index.php">Contact Us</a></li>
                             </ul>
                         </div>
                         <div class="col">
