@@ -1,8 +1,8 @@
 <?php include '../layouts/header-link.php' ?>
 <?php include '../layouts/header.php' ?>
-<main>
+<main style="background-color: #F5F4F7;">
 
-   <section class="topHeader paddingTopSection">
+   <section class="topHeader paddingTopSection" >
       <div class="container">
          <div class="breadCrumbsWrapper">
             <ul class="breadCrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
