@@ -494,14 +494,16 @@
         <div class="container">
             <div class="innerRow">
                 <div class="innerItem">
-                    <h2 class="darkPurple">Solutions</h2>
+                    <h2 class="darkPurple">Solutions</h2> 
                 </div>
                 <div class="solutionsMain">
                     <div class="solutionsItem">
                         <div class="solutionsImage js-animated fadeInLeft">
                             <picture>
-                                <source srcset="/glide/@public/solutions/New_Design/API.webp" type="image/webp">
-                                <img src="glide/%40public/solutions/New_Design/API.webp" alt="Website API" title="Website API" />
+                                <!-- <source srcset="/glide/@public/solutions/New_Design/API.webp" type="image/webp"> -->
+                                <!-- <img src="glide/%40public/solutions/New_Design/API.webp" alt="Website API" title="Website API" /> -->
+                                <img src="<?php echo f_path ?>img/api.webp" alt="NuxGame" title="NuxGame" />
+                                
                             </picture>
                         </div>
                         <div class="solutionsText js-animated fadeInRight">
@@ -520,9 +522,8 @@
                     <div class="solutionsItem">
                         <div class="solutionsImage js-animated fadeInRight">
                             <picture>
-                                <source srcset="/glide/@public/solutions/New_Design/TURNKEY--SOLUTION 1.png" type="image/webp">
-                                <img src="glide/%40public/solutions/New_Design/TURNKEY--SOLUTION%201.png" alt="Turnkey" title="Turnkey" />
-                            </picture>
+                                <!-- <source srcset="/glide/@public/solutions/New_Design/TURNKEY--SOLUTION 1.png" type="image/webp"> -->
+                                <img src="<?php echo f_path ?>img/TURNKEY--SOLUTION 1.png" alt="Turnkey" title="Turnkey"/> 
                         </div>
                         <div class="solutionsText js-animated fadeInLeft">
                             <h3>Turnkey</h3>
@@ -540,8 +541,10 @@
                     <div class="solutionsItem">
                         <div class="solutionsImage js-animated fadeInLeft">
                             <picture>
-                                <source srcset="/glide/@public/products/New_Design/aggregation.webp" type="image/webp">
-                                <img src="glide/%40public/products/New_Design/aggregation.webp" alt="Casino Game Aggregation" title="Casino Game Aggregation" />
+                                <!-- <source srcset="/glide/@public/products/New_Design/aggregation.webp" type="image/webp"> -->
+                                <img src="<?php echo f_path ?>img/aggregation.webp"  alt="Casino Game Aggregation" title="Casino Game Aggregation"/> 
+                               
+                                <!-- <img src="glide/%40public/products/New_Design/aggregation.webp" /> -->
                             </picture>
                         </div>
                         <div class="solutionsText js-animated fadeInRight">
@@ -664,96 +667,104 @@
             <div class="partnersWrapper">
                 <a href="games/pragmatic-play.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/pragmatic-play-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/pragmatic-play-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="pragmatic play games" title="Pragmatic Play" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/pragmatic-play-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/pragmatic-play-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+                        <!-- <img src="glide/%40public/provider/pragmatic-play-provider6c77.png?w=250&amp;h=90&amp;fit=flip"  /> -->
                     </picture>
                 </a>
                 <a href="games/evolution-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/evolution-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/evolution-gaming-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="evolution casino games" title="Evolution Gaming" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/evolution-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/evolution-gaming-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/hacksaw-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/hacksaw.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/hacksaw6c77.png?w=250&amp;h=90&amp;fit=flip" alt="HackSaw
-Gaming" title="HackSaw
-Gaming" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/hacksaw.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/hacksaw.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/netent.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/NetEnt.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/NetEnt6c77.png?w=250&amp;h=90&amp;fit=flip" alt="netent casino games" title="NetEnt" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/NetEnt.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/NetEnt.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/relax-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/relax-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/relax-gaming-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Relax Gaming" title="Relax Gaming" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/relax-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/relax-gaming-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
                     </picture>
                 </a>
                 <a href="games/red-tiger-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/Red-Tiger-Gaming.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/Red-Tiger-Gaming6c77.png?w=250&amp;h=90&amp;fit=flip" alt="tiger gaming casino" title="Red Tiger Gaming" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/Red-Tiger-Gaming.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/Red-Tiger-Gaming.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
                     </picture>
                 </a>
                 <a href="games/ka-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/kagaming-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/kagaming-gaming-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="KA
-Gaming" title="KA
-Gaming" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/kagaming-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/kagaming-gaming-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/jili-games.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/JILI.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/JILI6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Jili Games" title="Jili Games" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/JILI.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/JILI.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/v8poker.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/v8-removebg-preview.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/v8-removebg-preview6c77.png?w=250&amp;h=90&amp;fit=flip" alt="V8 Poker" title="V8 Poker" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/v8-removebg-preview.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/v8-removebg-preview.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/pariplay.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/pariplay-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/pariplay-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Pariplay" title="Pariplay" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/pariplay-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/pariplay-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/ezugi.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/ezugi-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/ezugi-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Ezugi" title="Ezugi" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/ezugi-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/ezugi-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
                     </picture>
                 </a>
                 <a href="games/smartsoft-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/smartsoft-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/smartsoft-gaming-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Smartsoft" title="Smartsoft" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/smartsoft-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/smartsoft-gaming-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/golden-race.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/goldenrace-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/goldenrace-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Goldenrace" title="Goldenrace" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/goldenrace-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/goldenrace-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/tvbet.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/tvbet-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/tvbet-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="TVBET" title="TVBET" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/tvbet-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/tvbet-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
                 <a href="games/tom-horn-gaming.html" class="partnersLogoWrapper">
                     <picture>
-                        <source srcset="/glide/@public/provider/tom-horn-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp">
-                        <img src="glide/%40public/provider/tom-horn-gaming-provider6c77.png?w=250&amp;h=90&amp;fit=flip" alt="Tom Horn Gaming" title="Tom Horn Gaming" loading="lazy" />
+                        <!-- <source srcset="/glide/@public/provider/tom-horn-gaming-provider.png?w=250&h=90&fit=flip&fm=webp" type="image/webp"> -->
+                        <img src="<?php echo f_path ?>img/tom-horn-gaming-provider.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </picture>
                 </a>
             </div>
@@ -785,7 +796,7 @@ Gaming" loading="lazy" />
             <div class="blog_slider blackTop">
                 <a href="blog/providers/1x2-network-something-fresh-and-exciting-for-your-players.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Blog/1x2-network-new-gamesa17b.jpg?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" alt="1x2 Network New Games" title="1x2 Network New Games" />
+                      <img src="<?php echo f_path ?>img/igaming-security.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
                     </div>
                     <div class="blog_info">
                         <h3>1X2 Network: Something Fresh and Exciting for Your Players</h3>
@@ -794,7 +805,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/legal-hub/gambling-license-in-anjouan.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Blog/Anjouan_1200_600a17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                      <img src="<?php echo f_path ?>img/1x2-network-new-games.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>Gambling license in Anjouan</h3>
@@ -803,7 +815,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/guides/casino-web-hosting.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Blog/casino-web-hostinga17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                     <img src="<?php echo f_path ?>img/Anjouan_1200_600.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>Online Casino Web Hosting</h3>
@@ -812,7 +825,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/platform-updates/nuxgame-urgent-partnership.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/_article/Blog%201200_600a17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                    <img src="<?php echo f_path ?>img/casino-web-hosting.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>NuxGame Partners with Urgent Games to Expand Casino Content</h3>
@@ -821,7 +835,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/industry-insights/nuxgame-vivo-partnership.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Vivo_1200_600a17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                    <img src="<?php echo f_path ?>img/Blog-1200_600-1.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>New Partnership: NuxGame and Vivo Gaming</h3>
@@ -830,7 +845,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/providers/evolution-gaming-roadmap-to-2022.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Blog/Evolution-roadmap-2022a17b.jpg?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" alt="Evolution Gaming Roadmap 2022" title="Evolution Gaming Roadmap 2022" />
+                    <img src="<?php echo f_path ?>img/Vivo_1200_600.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>Evolution Gaming: Roadmap to 2022</h3>
@@ -839,7 +855,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/legal-hub/curacao-gaming-license-complete-review.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Blog/Curacao-Gaming-Licensea17b.jpg?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" alt="Curacao Gaming License" title="Curacao Gaming License" />
+                    <img src="<?php echo f_path ?>img/Evolution-roadmap-2022.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>Curacao Gaming License: Complete Review</h3>
@@ -848,7 +865,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/guides/how-to-choose-the-best-online-casino-builder-for-your-business.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/Blog/Online-Casino%20bilder_1200_600a17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                    <img src="<?php echo f_path ?>img/Curacao-Gaming-License.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>How to Choose the Best Online Casino Builder for Your Business</h3>
@@ -857,7 +875,7 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/platform-updates/nuxgame-teams-up-with-changelly-seamless-crypto-exchanges.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/_article/Blog%201200_600-1a17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                    <img src="<?php echo f_path ?>img/Online-Casino-bilder_1200_600 .webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
                     </div>
                     <div class="blog_info">
                         <h3>NuxGame Teams Up with Changelly for Seamless Crypto Exchanges</h3>
@@ -866,7 +884,8 @@ Gaming" loading="lazy" />
                 </a>
                 <a href="blog/industry-insights/securing-the-future-navigating-cybersecurity-in-igaming.html" class="blog_slide">
                     <div class="blog_img">
-                        <img src="glide/%40public/_article/igaming-securitya17b.png?w=306&amp;h=400&amp;fit=crop&amp;fm=webp" />
+                    <img src="<?php echo f_path ?>img/1200_600LinkedInblog.webp"  alt="pragmatic play games" title="Pragmatic Play" loading="lazy"/> 
+
                     </div>
                     <div class="blog_info">
                         <h3>Securing the Future: Navigating Cybersecurity in iGaming</h3>
